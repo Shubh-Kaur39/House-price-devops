@@ -11,19 +11,19 @@ pipeline {
 
         stage('Test') {
             steps {
-                bat 'pytest'
+                bat 'docker run --rm house-price-app pytest'
             }
         }
 
         stage('Code Quality') {
             steps {
-                bat 'pylint app.py'
+                bat 'docker run --rm house-price-app pylint app.py'
             }
         }
 
         stage('Security Scan') {
             steps {
-                bat 'bandit -r .'
+                bat 'docker run --rm house-price-app bandit -r .'
             }
         }
 
