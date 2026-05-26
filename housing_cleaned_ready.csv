@@ -1,0 +1,989 @@
+Carspaces,Bathrooms,Type,Bedrooms,Address,Price,Name,Suburb
+1.0,1.0,Unit,3.0,"6/1 Brunnings Road, Carrum Downs",570000.0,Brad Ryan,Carrum Downs
+1.0,2.0,House,3.0,"29 Murray Drive, Burwood",1350000.0,Nicole Lismore,Burwood
+1.0,2.0,Townhouse,2.0,"4/6 Dalgety Street, Oakleigh",720000.0,Faye Yang,Oakleigh
+1.0,2.0,Apartment,2.0,"316/2 Dalgety Street, Oakleigh",590000.0,Faye Yang,Oakleigh
+1.0,1.0,Apartment,1.0,"102/89 Atherton Road, Oakleigh",440000.0,Gareth Apswoude,Oakleigh
+2.0,2.0,Unit,3.0,"12/104 Broderick Road, Carrum Downs",622500.0,Ben Quatrini,Carrum Downs
+1.0,2.0,Apartment,2.0,"Oros 6120/2-6 Dalgety Street, Oakleigh",605000.0,Jimmy Zhou,Oakleigh
+2.0,2.0,Townhouse,3.0,"9/4 Wilton Way, Carrum Downs",699999.0,Ian Harris,Carrum Downs
+4.0,4.0,House,7.0,"210-212 Burwood Highway, Burwood",3500000.0,Jenny Gao,Burwood
+2.0,2.0,Townhouse,3.0,"3/53 Elgar Road, Burwood",892500.0,Tony Kwan,Burwood
+1.0,2.0,Apartment,2.0,"201/16 Dalgety Street, Oakleigh",605000.0,Sean Cho,Oakleigh
+1.0,2.0,Apartment,2.0,"304/1525 Dandenong Road, Oakleigh",435000.0,James Tan,Oakleigh
+1.0,1.0,Unit,2.0,"7/16   Dalgety St, Oakleigh",545000.0,Lushan Dons,Oakleigh
+4.0,2.0,House,5.0,"55 Somers Street, Burwood",3850000.0,Jessica Chin,Burwood
+2.0,1.0,Unit,3.0,"1/389 Burwood Highway, Burwood",830000.0,Yang Jiang,Burwood
+1.0,1.0,Unit,2.0,"5/11 Renown Street, Burwood",735000.0,Mannie Psarakis,Burwood
+1.0,1.0,Apartment,2.0,"107/373-377 Burwood Highway, Burwood",450000.0,Janelle Gu,Burwood
+2.0,1.0,House,3.0,"32 Orama Avenue, Carrum Downs",798500.0,Rachel Alexandris,Carrum Downs
+2.0,2.0,House,3.0,"13 Blossom Way, Carrum Downs",649000.0,Karen Finch,Carrum Downs
+1.0,1.0,House,3.0,"18 Fulton Crescent, Burwood",1050000.0,Nicholas Richards,Burwood
+1.0,1.0,Apartment,2.0,"7/119-123 Atkinson Street, Oakleigh",440000.0,Daniel Seyran,Oakleigh
+6.0,3.0,House,4.0,"5 Bronte Avenue, Burwood",3076500.0,Florence Law,Burwood
+2.0,1.0,House,3.0,"6 Eyre Street, Burwood",1700000.0,Nicole Lismore,Burwood
+2.0,2.0,Apartment,3.0,"220/2 Dalgety Street, Oakleigh",970000.0,Eddy He,Oakleigh
+2.0,2.0,House,3.0,"49 Allied Drive, Carrum Downs",780000.0,Michelle Stephens,Carrum Downs
+2.0,1.0,Unit,2.0,"2/3 Wridgway Avenue, Burwood",765000.0,Tim Heavyside,Burwood
+2.0,3.0,Townhouse,4.0,"12 Tennyson St, Burwood",1500000.0,Tim Lu,Burwood
+1.0,1.0,Unit,3.0,"11/20 Carrum Woods Drive, Carrum Downs",625000.0,Chris Zhang,Carrum Downs
+2.0,1.0,House,3.0,"11 Rothsay Avenue, Burwood",1225000.0,Nicole Lismore,Burwood
+2.0,1.0,Apartment,2.0,"206/63-65 Atherton Road, Oakleigh",428000.0,Charlie Darlow,Oakleigh
+1.0,1.0,Apartment,1.0,"401/19-21 Hanover Street, Oakleigh",369000.0,Rohan Cleary,Oakleigh
+2.0,2.0,House,4.0,"17 Sandalwood Grove, Carrum Downs",840000.0,Michelle Stephens,Carrum Downs
+2.0,2.0,Townhouse,3.0,"2/74 Hall Road, Carrum Downs",630000.0,Symone Gatt,Carrum Downs
+3.0,3.0,House,8.0,"23 Clyde Street, Oakleigh",1890000.0,George Midas,Oakleigh
+2.0,2.0,Townhouse,2.0,"1/87 Middleborough Road, Burwood",672500.0,Emma Yu,Burwood
+2.0,2.0,Townhouse,3.0,"3 Gibson Court, Carrum Downs",689500.0,Sara Bizre,Carrum Downs
+2.0,2.0,House,4.0,"25 Greenwood Street, Burwood",1650000.0,Hans Liu,Burwood
+2.0,2.0,Unit,2.0,"2/14 Summit Road, Burwood",787500.0,Hans Liu,Burwood
+2.0,2.0,House,3.0,"11 Myhaven Circuit, Carrum Downs",697500.0,Ben Quatrini,Carrum Downs
+2.0,2.0,Apartment,3.0,"106/865 Dandenong Road, Malvern East",775000.0,Simon Polinelli,Malvern East
+8.0,5.0,Block of units,10.0,"35 Paxton Street, Malvern East",3250000.0,Agent: Betty Liu,Malvern East
+1.0,1.0,House,2.0,"23 Vickery Street, Malvern East",880000.0,Agent: Arthur Dislakis,Malvern East
+2.0,2.0,Apartment,3.0,"301/6 Belmont Avenue, Clayton",995000.0,Agent: Sarah Behan,Clayton
+1.0,2.0,Townhouse,3.0,"6 Penn Street, Clayton",898888.0,Tony Che,Clayton
+1.0,2.0,Apartment,2.0,"1204/2 Connam Avenue, Clayton",550000.0,Phuc Le,Clayton
+2.0,1.0,House,3.0,"192 Haughton Road, Oakleigh South",1300000.0,Dimitri Latorets,Oakleigh South
+2.0,2.0,Apartment,2.0,"22/60-68 Gladesville Boulevard, Patterson Lakes",615000.0,Genevieve Hill,Patterson Lakes
+3.0,3.0,House,4.0,"39 Boisdale Street, Surrey Hills",2000000.0,James Moss,Surrey Hills
+1.0,1.0,Apartment,2.0,"105/315 High Street, Ashburton",625000.0,Mannie Psarakis,Ashburton
+4.0,3.0,House,6.0,"17 Coral Island Court, Patterson Lakes",3230000.0,Justin Maher,Patterson Lakes
+3.0,3.0,Acreage,4.0,"1 Healsview Court, Langwarrin South",2970000.0,Andrew Guerin,Langwarrin South
+2.0,1.0,Apartment,1.0,"904/11 Prospect Street, Box Hill",375000.0,Dave Tang,Box Hill
+2.0,2.0,House,3.0,"6 Scarborough Drive, Patterson Lakes",805000.0,Michael Marziale,Patterson Lakes
+2.0,2.0,Residential land,3.0,"586 Riversdale Road, Camberwell",2362500.0,Nick O'Halloran,Camberwell
+3.0,3.0,House,4.0,"56 Willesden Road, Hughesdale",1540000.0,Jonathon Eaves,Hughesdale
+3.0,2.0,Unit,3.0,"3/264 Nepean Highway, Seaford",960000.0,James Stamatopoulos,Seaford
+2.0,5.0,House,5.0,"16 Callanish Road, Camberwell",4250000.0,Yili Ma,Camberwell
+5.0,2.0,House,5.0,"1B Victoria Av, Canterbury",6.0,Mike Jing,Canterbury
+1.0,1.0,Apartment,1.0,"708/770C Toorak Road, Glen Iris",430000.0,Tyson Maschler,Glen Iris
+3.0,2.0,Townhouse,4.0,"683B South Road, Bentleigh East",1440000.0,Sarah Gursansky,Bentleigh East
+1.0,1.0,Apartment,3.0,"9/959-961 Burke Road, Camberwell",1300000.0,John Kravaritis,Camberwell
+2.0,3.0,Townhouse,4.0,"5/8 Camelia Street, Box Hill",1430000.0,Fred Zeng,Box Hill
+2.0,3.0,House,4.0,"36A Webster Street, Camberwell",2325000.0,Steve Burke,Camberwell
+1.0,2.0,Apartment,2.0,"17  Poplar Street, Box Hill",485000.0,Canwealth Prestige,Box Hill
+6.0,2.0,House,4.0,"19 Brindabella Circuit, Sandhurst",1772500.0,Brad Ryan,Sandhurst
+1.0,2.0,Apartment,2.0,"6/1 St Georges Avenue, Bentleigh East",630000.0,Rod Richardson,Bentleigh East
+2.0,2.0,Apartment,3.0,"104/594 Riversdale Road, Camberwell",1015000.0,Laura Harvey,Camberwell
+2.0,2.0,Apartment,2.0,"3002/545 Station Street, Box Hill",550000.0,Lily Zhang,Box Hill
+2.0,4.0,House,7.0,"53 Myola Street, Patterson Lakes",2300000.0,Michael Marziale,Patterson Lakes
+1.0,1.0,Retirement living,3.0,"12/59-73 Gladesville Boulevard, Patterson Lakes",495000.0,Jane Webb,Patterson Lakes
+5.0,3.0,House,5.0,"22 Culshaw Ave, Clayton South",1200000.0,Andy Chua,Clayton South
+2.0,2.0,Townhouse,3.0,"7A Railway Parade, Seaford",925000.0,Cameron McCullough,Seaford
+1.0,1.0,House,3.0,"4 Catalina Avenue, Ashburton",1490000.0,Mannie Psarakis,Ashburton
+1.0,1.0,Unit,2.0,"3/27 Lee Avenue, Mount Waverley",755000.0,Aaron Chuah,Mount Waverley
+2.0,2.0,Residential land,3.0,"Lot 22/2A Brabham Way, Langwarrin",976012.5,Ash Marton,Langwarrin
+1.0,1.0,Apartment,2.0,"26/1656 Dandenong Road, Oakleigh East",435000.0,Tony Dimopoulos,Oakleigh East
+2.0,3.0,House,4.0,"23 Spray Circuit, Lyndhurst",974000.0,Kulwant Singh,Lyndhurst
+2.0,1.0,House,3.0,"5 Chile Street, Frankston North",651000.0,Mark Burke,Frankston North
+1.0,1.0,Apartment,2.0,"5/105 Willesden Road, Hughesdale",409500.0,Jonathon Eaves,Hughesdale
+2.0,2.0,Apartment,3.0,"104/363 High Street, Ashburton",1500000.0,Darren Blair,Ashburton
+2.0,1.0,House,3.0,"1/12 Hodgson Grove, Bentleigh East",1120000.0,Frank Scalise,Bentleigh East
+1.0,2.0,Apartment,2.0,"113/28 Swindon Road, Hughesdale",570000.0,Chloe Goh,Hughesdale
+2.0,3.0,Apartment,3.0,"M-City 204/2 Connam Avenue, Clayton",880000.0,Jimmy Zhou,Clayton
+1.0,1.0,Villa,2.0,"1/28 Bryson Street, Canterbury",825000.0,Danny See,Canterbury
+2.0,1.0,Unit,2.0,"2/18 Charles Street, Seaford",735000.0,Michelle Stephens,Seaford
+1.0,1.0,Unit,2.0,"4/75-93 Gladesville Boulevard, Patterson Lakes",502500.0,Michelle Stephens,Patterson Lakes
+3.0,2.0,Apartment,3.0,"G01/166 Victoria Road, Camberwell",1950000.0,Myles Howell,Camberwell
+3.0,2.0,Apartment,3.0,"402/166 Victoria Road, Camberwell",2950000.0,Myles Howell,Camberwell
+3.0,2.0,Apartment,3.0,"107/166 Victoria Road, Camberwell",3900000.0,Myles Howell,Camberwell
+2.0,2.0,Apartment,3.0,"101/281 Tooronga Road, Glen Iris",875000.0,Susie Novak,Glen Iris
+1.0,3.0,Townhouse,4.0,"294B Highbury Road, Mount Waverley",1470000.0,Jared Wei,Mount Waverley
+1.0,2.0,Apartment,2.0,"g08/1338 Dandenong Road, Hughesdale",520000.0,Jonathon Eaves,Hughesdale
+1.0,2.0,Apartment,2.0,"904/2 Connam Avenue, Clayton",545000.0,Phuc Le,Clayton
+2.0,3.0,Apartment,3.0,"1210/868 Blackburn Road, Clayton",983888.0,Corey Le,Clayton
+2.0,3.0,Apartment,3.0,"2508/826 Whitehorse Road, Box Hill",1025640.0,Anthony Wong,Box Hill
+2.0,1.0,House,3.0,"17  Railway Parade, Seaford",1027500.0,Dimitris Koptis,Seaford
+2.0,1.0,House,3.0,"71  Manton Road, Clayton",1350000.0,Ethan He,Clayton
+4.0,2.0,House,5.0,"1560 Dandenong Road, Huntingdale",1450000.0,Steven Zervas,Huntingdale
+2.0,2.0,Townhouse,4.0,"10/1 Royton Street, Burwood East",1005000.0,Winston Wei,Burwood East
+2.0,1.0,House,3.0,"3 East Road, Seaford",997500.0,Sarah McCallum,Seaford
+1.0,2.0,Apartment,2.0,"202/17 Poplar Street, Box Hill",500000.0,Jun Zeng,Box Hill
+2.0,2.0,Unit,3.0,"12/39-41 Nepean Highway, Seaford",795000.0,Aaron Froling,Seaford
+1.0,2.0,Apartment,2.0,"1705/3 Young Street, Box Hill",550000.0,Andy Yuan,Box Hill
+3.0,2.0,House,4.0,"11 Nepean Street, Glen Iris",3895000.0,Perry Zhou,Glen Iris
+1.0,1.0,Apartment,2.0,"8/76 East Boundary Road, Bentleigh East",485000.0,Jayden Irving,Bentleigh East
+1.0,2.0,Apartment,2.0,"306/1 Archibald Street, Box Hill",500000.0,Fei Liao,Box Hill
+2.0,2.0,House,4.0,"157 Sandhurst Boulevard, Sandhurst",1050000.0,James Bell,Sandhurst
+1.0,1.0,Apartment,2.0,"205/9-11 Ellingworth Parade, Box Hill",468000.0,Chris Smout,Box Hill
+2.0,2.0,Apartment,3.0,"101/890 Toorak Road, Camberwell",1400000.0,Jensen Woo,Camberwell
+1.0,1.0,Unit,2.0,"2/60 Sunny Vale Drive, Langwarrin",603750.0,Daniel Robinson,Langwarrin
+4.0,3.0,House,4.0,"695 Robinsons Road, Langwarrin",1750000.0,Jady Xu,Langwarrin
+2.0,2.0,Townhouse,3.0,"2/1025 Riversdale Road, Surrey Hills",1399500.0,Spring Chen,Surrey Hills
+1.0,1.0,Apartment,2.0,"206/19-21 Poplar Street, Box Hill",435000.0,Joo Ming Lim,Box Hill
+1.0,1.0,House,2.0,"4 Lillian Street, Clayton",825000.0,Ethan He,Clayton
+2.0,3.0,House,4.0,"28 Admirals Quay, Patterson Lakes",1515000.0,Michelle Stephens,Patterson Lakes
+2.0,1.0,House,3.0,"5 Chile Street, Frankston North",651000.0,Mark Burke,Frankston North
+5.0,2.0,House,5.0,"6 Splash Way, Lyndhurst",1350000.0,Mehdi Fayazi,Lyndhurst
+6.0,3.0,House,5.0,"57 Beaver Street, Malvern East",4690000.0,Andrew Hayne,Malvern East
+2.0,3.0,Townhouse,4.0,"3/942 Riversdale Road, Surrey Hills",1490000.0,Brooke Warwick,Surrey Hills
+2.0,1.0,Unit,3.0,"1/340a Blackburn Road, Burwood East",825000.0,Peter Gourdouros,Burwood East
+1.0,2.0,Apartment,2.0,"307/436 Burke Road, Camberwell",815000.0,Elsa Zhang,Camberwell
+3.0,3.0,Acreage,7.0,"399 North Road, Langwarrin",3.0,Jared McGovern,Langwarrin
+1.0,1.0,House,3.0,"60 High Street Road, Ashwood",1350000.0,Anna Paterson & Adam Flynn,Ashwood
+2.0,4.0,House,4.0,"25 Curlew Point Drive, Patterson Lakes",2820000.0,Linna Wu,Patterson Lakes
+2.0,2.0,House,4.0,"12 Nanda Court, Patterson Lakes",1400000.0,Danny O'Brien,Patterson Lakes
+1.0,1.0,Apartment,2.0,"1823/850 Whitehorse Road, Box Hill",550000.0,Ivan Wu,Box Hill
+2.0,3.0,Townhouse,4.0,"TH8/12 - 14  High Street Road, Ashburton",1510000.0,Jarrod Farey,Ashburton
+3.0,2.0,House,4.0,"1 Parkside Avenue, Box Hill",1800000.0,Neil Zheng,Box Hill
+2.0,2.0,Other,3.0,"43 Karnak Road, Ashburton",1080000.0,John Pantelios,Ashburton
+1.0,2.0,Apartment,2.0,"G02/32 Adrian Street, Chadstone",504000.0,Jonathon Eaves,Chadstone
+2.0,2.0,Apartment,2.0,"502/864 BLACKBURN ROAD, Clayton",600000.0,Rosy Tran,Clayton
+1.0,1.0,Townhouse,2.0,"3/44 Carrol Grove, Mount Waverley",700000.0,Tony Che,Mount Waverley
+2.0,3.0,House,4.0,"236 Blackburn Road, Blackburn South",1050000.0,Sergey Martynov,Blackburn South
+4.0,2.0,House,5.0,"120 North Shore Drive, Patterson Lakes",2240000.0,Justin Maher,Patterson Lakes
+1.0,2.0,Apartment,2.0,"410/33 Harrow Street, Box Hill",470000.0,Max Pang,Box Hill
+2.0,1.0,Unit,2.0,"2/5 Hilda Street, Malvern East",645000.0,Jay Price,Malvern East
+3.0,1.0,House,3.0,"801-803 Riversdale Road, Camberwell",1250000.0,Sean Evans,Camberwell
+2.0,1.0,Townhouse,2.0,"1/1087-1089 North Road, Hughesdale",755000.0,George Korderas,Hughesdale
+2.0,2.0,Townhouse,3.0,"4/58 Union Road, Surrey Hills",1495000.0,Stefan Cook,Surrey Hills
+2.0,1.0,Unit,2.0,"2/166-168 Poath Road, Hughesdale",770000.0,Jonathon Eaves,Hughesdale
+3.0,2.0,Townhouse,4.0,"334A Chesterville Road, Bentleigh East",1500000.0,Kosta Mesaritis,Bentleigh East
+2.0,2.0,Apartment,3.0,"Penthouse/1058 Toorak Road, Camberwell",2047500.0,James Paull,Camberwell
+2.0,1.0,House,3.0,"96 Willesden Road, Hughesdale",1415000.0,Gareth Apswoude,Hughesdale
+1.0,1.0,Apartment,1.0,"127/801 Centre Road, Bentleigh East",377500.0,Alex Grigoriadis,Bentleigh East
+1.0,2.0,Unit,3.0,"1/237-239 Westall Road, Clayton South",725000.0,Jason Xi,Clayton South
+1.0,2.0,House,4.0,"10 Allure Court, Frankston North",595000.0,Robert Lewis,Frankston North
+2.0,2.0,Townhouse,3.0,"2/136-138 Darling Road, Malvern East",1500000.0,Leon Gouzenfiter,Malvern East
+2.0,1.0,House,3.0,"37 Park Street, Seaford",970500.0,Brian Terry,Seaford
+1.0,1.0,Unit,2.0,"9/36 McCormicks Road, Skye",565000.0,Asif Raees,Skye
+1.0,2.0,Apartment,2.0,"215/868 Blackburn Road, Clayton",545000.0,Tim Lu,Clayton
+3.0,2.0,House,4.0,"27 Flame Robin Drive, Langwarrin",1250000.0,Ash Marton,Langwarrin
+2.0,1.0,House,3.0,"32 Kintore Crescent, Box Hill",2400000.0,Conan Ong,Box Hill
+3.0,2.0,House,5.0,"6 Irilbarra Road, Canterbury",4820000.0,Lawrence Zhu,Canterbury
+2.0,2.0,House,4.0,"25 Alysha Avenue, Lyndhurst",985000.0,Michelle Stephens,Lyndhurst
+1.0,2.0,Apartment,2.0,"104/179 Carinish Road, Clayton",599000.0,Ethan He,Clayton
+2.0,2.0,Townhouse,3.0,"Unit 2/111 Waverley Road, Chadstone",1010000.0,Diana Chen,Chadstone
+2.0,2.0,Townhouse,4.0,"39 Evergreen Boulevard, Clayton South",1075000.0,John Meng,Clayton South
+2.0,1.0,House,2.0,"2A Catherine Court, Langwarrin",665000.0,Jacob Weeks,Langwarrin
+2.0,2.0,Residential land,3.0,"239 Highfield Road, Camberwell",2500000.0,Annabelle Feng,Camberwell
+5.0,3.0,House,5.0,"11 Feathery Grove, Sandhurst",2140000.0,Justin Maher,Sandhurst
+2.0,2.0,House,3.0,"9/2 Scott Grove, Glen Iris",1680000.0,Tim Heavyside,Glen Iris
+2.0,2.0,House,4.0,"45 Coppin Street, Malvern East",5250000.0,John Morrisby,Malvern East
+1.0,2.0,Apartment,2.0,"304/19-21 Poplar Street, Box Hill",470000.0,Jimmy Zhou,Box Hill
+1.0,1.0,Apartment,2.0,"6/19 Gray Street, Bentleigh East",575000.0,Josh Iglesias,Bentleigh East
+5.0,4.0,House,4.0,"72 Martin Road, Glen Iris",4123888.0,Cameron Howe,Glen Iris
+2.0,1.0,House,3.0,"27 Boardman Close, Box Hill South",860000.0,Daniel Bullen,Box Hill South
+1.0,1.0,House,2.0,"46-48 Edward Street, Langwarrin",2200000.0,Aarryn Cooper,Langwarrin
+1.0,1.0,Unit,2.0,"1/15 Warrandyte Road, Langwarrin",620000.0,Paul El Deir,Langwarrin
+1.0,3.0,Townhouse,3.0,"2/70 Fulton Street, Clayton",780000.0,Ming Chen,Clayton
+2.0,2.0,House,3.0,"211 McLeod Road, Patterson Lakes",1475000.0,James Bell,Patterson Lakes
+3.0,1.0,House,3.0,"1/35 Longleaf Street, Frankston North",535000.0,Damien Pusch,Frankston North
+1.0,1.0,Unit,2.0,"2/31-33 Fellowes Street, Seaford",512500.0,Michael Marziale,Seaford
+2.0,1.0,House,3.0,"27 Oakpark Drive, Chadstone",1250000.0,Chris Karantzas,Chadstone
+2.0,4.0,House,12.0,"186-192 Clayton Road, Clayton",7800000.0,Chris Zervas,Clayton
+1.0,1.0,Unit,2.0,"3/17 Tennyson Avenue, Clayton South",740000.0,Paul Richards,Clayton South
+1.0,2.0,Apartment,3.0,"2901/36 Prospect Street, Box Hill",928000.0,Anthony Wong,Box Hill
+2.0,2.0,House,3.0,"65 Milroy Crescent, Seaford",1140000.0,Michelle Stephens,Seaford
+1.0,2.0,House,4.0,"12A Bardia Ave, Seaford",1150000.0,Ash Marton,Seaford
+1.0,3.0,Townhouse,4.0,"7 Lang Road, Mount Waverley",1375000.0,Lisa Suryawan,Mount Waverley
+2.0,2.0,House,3.0,"36 Ardrie Road, Malvern East",2175000.0,David Volpato,Malvern East
+2.0,3.0,House,3.0,"41 Pier One Drive, Patterson Lakes",2145000.0,Andrew Melas,Patterson Lakes
+1.0,2.0,House,4.0,"232 Canterbury Road, Canterbury",2400000.0,Sophie Su,Canterbury
+2.0,2.0,House,3.0,"5 Overall Drive, Skye",755000.0,Michelle Stephens,Skye
+1.0,1.0,House,3.0,"35 Cooloongatta Road, Camberwell",2055000.0,Will Bennison,Camberwell
+2.0,2.0,Unit,3.0,"1/50 McCormicks Road, Skye",630000.0,Michelle Stephens,Skye
+1.0,2.0,Apartment,2.0,"Address available on request, Box Hill",690000.0,Daniel Kon,Box Hill
+4.0,3.0,House,4.0,"16 Wentworth Avenue, Canterbury",5195000.0,Scott Patterson,Canterbury
+6.0,2.0,House,4.0,"30 Edward Street, Langwarrin",1.0,Lloyd Hillard,Langwarrin
+6.0,2.0,House,4.0,"18 Woodrush Drive, Langwarrin",2100000.0,Alyssia Watson,Langwarrin
+1.0,1.0,Apartment,2.0,"207/1 Mackie Road, Bentleigh East",550000.0,Angelo Nikitas,Bentleigh East
+2.0,2.0,Townhouse,4.0,"1/17 Fenton Street, Huntingdale",1050000.0,Elroy Malowney,Huntingdale
+3.0,2.0,Townhouse,3.0,"1/1693-1699 Malvern Road, Glen Iris",1415000.0,David Macmillan,Glen Iris
+1.0,2.0,Apartment,1.0,"206/59-63 Warrigal Road, Hughesdale",399000.0,Thushari Sumanasekera,Hughesdale
+1.0,2.0,Apartment,2.0,"202/117 Croydon Road, Surrey Hills",749000.0,Mark Fletcher,Surrey Hills
+2.0,1.0,House,3.0,"46 Elder Street, Clarinda",1050000.0,Peter Liu,Clarinda
+2.0,2.0,House,4.0,"26 Malvern Avenue, Glen Iris",3250000.0,Jesse Matthews,Glen Iris
+2.0,8.0,House,8.0,"2 Alba Street, Frankston North",1630000.0,Joe Bonifazio,Frankston North
+2.0,2.0,Townhouse,3.0,"1/214 North Road, Langwarrin",705000.0,Marcus Auch-Schwelk,Langwarrin
+1.0,2.0,Apartment,2.0,"806/12-14 Nelson Road, Box Hill",622500.0,Linda Pan,Box Hill
+1.0,2.0,Apartment,2.0,"204/3 Dixon Street, Clayton",430000.0,James Tan,Clayton
+2.0,3.0,Townhouse,5.0,"159 Through Road, Camberwell",2200000.0,Spring Chen,Camberwell
+2.0,2.0,Apartment,3.0,"G5/1633 Malvern Road, Glen Iris",1050000.0,Jay Price,Glen Iris
+1.0,1.0,Apartment,1.0,"21/92 Waverley Road, Malvern East",355000.0,Mark Verrocchi,Malvern East
+1.0,2.0,Apartment,2.0,"16/41 Harrow Street, Box Hill",580000.0,Amanda Wei,Box Hill
+2.0,1.0,House,3.0,"25 Robinson Street, Clayton",2400000.0,John Mu,Clayton
+2.0,2.0,Apartment,2.0,"211/6 Clarkson Court, Clayton",515000.0,James Tan,Clayton
+1.0,1.0,House,3.0,"935 Canterbury Road, Box Hill",1.0,Declan Treacey,Box Hill
+1.0,6.0,Townhouse,7.0,"4 Bimbi Street, Clayton",1500000.0,Michael Alevras,Clayton
+1.0,1.0,Apartment,2.0,"114/2 CLARKSON COURT, Clayton",460000.0,ken Chen,Clayton
+3.0,2.0,Townhouse,4.0,"1A Koolena Close, Clayton South",1285000.0,Phuc Le,Clayton South
+2.0,2.0,Townhouse,3.0,"1/32 Elizabeth Street, Bentleigh East",1010000.0,Chris Hassall,Bentleigh East
+2.0,2.0,Apartment,2.0,"104/65 Maitland Street, Glen Iris",1625000.0,Charles Boyd,Glen Iris
+3.0,2.0,House,3.0,"15 Barkers Street, Oakleigh South",1150000.0,Dimitri Damianos,Oakleigh South
+4.0,2.0,House,5.0,"2 Dudley Parade, Canterbury",4850000.0,Walter Dodich,Canterbury
+1.0,1.0,Apartment,1.0,"101/1131 Dandenong Road, Malvern East",450000.0,Onder Ozmetin,Malvern East
+4.0,2.0,House,5.0,"287 Elgar Road, Surrey Hills",1725000.0,Spring Chen,Surrey Hills
+1.0,2.0,Apartment,2.0,"2/88 Broughton Road, Surrey Hills",772500.0,Steven Zarokostas,Surrey Hills
+2.0,2.0,Townhouse,3.0,"3/6 Wesley Close, Skye",720000.0,Michelle Stephens,Skye
+4.0,3.0,House,4.0,"9 Richards Avenue, Glen Iris",4500000.0,Jesse Matthews,Glen Iris
+1.0,2.0,Townhouse,3.0,"2/45 Osborne Avenue, Glen Iris",1100000.0,Peter Daicos,Glen Iris
+6.0,2.0,Acreage,4.0,"99 West Road, Langwarrin South",2310000.0,Penny Perry,Langwarrin South
+2.0,2.0,Townhouse,3.0,"2/902 Burke Road, Canterbury",2048000.0,Joo Ming Lim,Canterbury
+2.0,2.0,Townhouse,3.0,"37 Evergreen Boulevard, Clayton South",955000.0,Chris Feng,Clayton South
+1.0,1.0,Unit,1.0,"102/160 Union Road, Surrey Hills",395000.0,Troy Rendle,Surrey Hills
+1.0,1.0,Apartment,1.0,"207/770B Toorak Road, Glen Iris",425000.0,Jacqui French,Glen Iris
+1.0,1.0,Apartment,2.0,"312/1408 Centre Road, Clayton South",475000.0,Ethan He,Clayton South
+2.0,1.0,House,3.0,"26 Milloo Crescent, Mount Waverley",1500000.0,Naina Pandher,Mount Waverley
+2.0,2.0,Townhouse,3.0,"65b Armstrongs Road, Seaford",997500.0,Daniel Keleher,Seaford
+2.0,2.0,Unit,3.0,"1/173 Blackburn Road, Mount Waverley",770000.0,Alan Zhang,Mount Waverley
+1.0,2.0,Apartment,2.0,"308/12 High Street, Glen Iris",617500.0,Rakesh Hooda,Glen Iris
+5.0,4.0,Block of units,8.0,"1-4/27 Barcelona Street, Box Hill",3350000.0,Thai Tan,Box Hill
+4.0,2.0,House,5.0,"2 Helen Road, Chadstone",2795000.0,Leigh Petropoulos,Chadstone
+2.0,2.0,Townhouse,4.0,"2/3 Johnstone Street, Seaford",975000.0,Max McLaughlin,Seaford
+2.0,2.0,House,4.0,"22 Normdale Road, Bentleigh East",2275000.0,Claude Mery,Bentleigh East
+2.0,3.0,Townhouse,4.0,"1/200 Nepean Highway, Seaford",885000.0,Danielle Scanlon,Seaford
+2.0,2.0,House,3.0,"37 Wharton Street, Surrey Hills",2300000.0,Helen Yan,Surrey Hills
+2.0,3.0,House,5.0,"13 Viewmount Place, Sandhurst",1750000.0,Michelle Stephens,Sandhurst
+1.0,1.0,Apartment,1.0,"308/436 Burke Road, Camberwell",440000.0,Brendan Cain,Camberwell
+2.0,2.0,House,3.0,"1/33-35 Iris Road, Glen Iris",1450000.0,John Manton,Glen Iris
+2.0,2.0,House,4.0,"9 George Street, Camberwell",2450000.0,Duane Wolowiec,Camberwell
+2.0,2.0,Townhouse,4.0,"431 Stephensons Road, Mount Waverley",1250000.0,Tony Kwan,Mount Waverley
+2.0,1.0,Apartment,2.0,"703/9-11 Prospect Street, Box Hill",560000.0,Freeman Li 李,Box Hill
+2.0,2.0,House,4.0,"22 Sherwood Road, Mount Waverley",2310000.0,Adrian Wood,Mount Waverley
+5.0,5.0,House,5.0,"15 Scheele Street, Surrey Hills",6300000.0,Jayme Lee,Surrey Hills
+2.0,2.0,Acreage,4.0,"3 Sherwood Court, Langwarrin South",2100000.0,Jo Nathan,Langwarrin South
+2.0,2.0,Townhouse,3.0,"3/108 Fortescue Avenue, Seaford",880000.0,James Stamatopoulos,Seaford
+1.0,2.0,Apartment,2.0,"123/801 Centre Road, Bentleigh East",480000.0,Ryan Counihan,Bentleigh East
+2.0,2.0,Unit,3.0,"2/76 Lechte Road, Mount Waverley",1100000.0,Peter Alamaras,Mount Waverley
+1.0,1.0,Apartment,2.0,"504/19  Poplar Street, Box Hill",517500.0,Canwealth VIC,Box Hill
+1.0,2.0,Apartment,2.0,"213/28 Swindon Road, Hughesdale",580000.0,Chris Karantzas,Hughesdale
+2.0,2.0,House,3.0,"12 Morton Street, Box Hill South",1525000.0,Lydia Yu,Box Hill South
+2.0,3.0,Townhouse,4.0,"1C Leonard Street, Ashwood",1630000.0,Elaine Qian,Ashwood
+1.0,2.0,Apartment,2.0,"202/21 Collins Street, Chadstone",612500.0,David White,Chadstone
+2.0,1.0,House,2.0,"30 Portland Parade, Seaford",945000.0,Daniel Keleher,Seaford
+2.0,3.0,Townhouse,4.0,"1/3 Barry Street, Seaford",867500.0,Daniel Keleher,Seaford
+2.0,3.0,Townhouse,3.0,"2,3,4/156 Fortescue Avenue, Seaford",1200000.0,Sherrie Lee,Seaford
+2.0,1.0,House,3.0,"133 Power Avenue, Chadstone",1050000.0,Stephanie Lentini,Chadstone
+1.0,1.0,Apartment,1.0,"4/70 Edgar Street North, Glen Iris",265000.0,Mary Li,Glen Iris
+1.0,1.0,Apartment,2.0,"201,203/19-21 High Street, Glen Iris",577500.0,Stefan Perera,Glen Iris
+1.0,1.0,House,3.0,"37 Cratloe Road, Mount Waverley",1550000.0,Nicholas Richards,Mount Waverley
+2.0,2.0,House,4.0,"9 Seachange Parade, Lyndhurst",1120000.0,Puneet Wadhawan,Lyndhurst
+2.0,1.0,Unit,5.0,"1/19 Marshall Avenue, Clayton",787500.0,Jonathon Eaves,Clayton
+2.0,1.0,Unit,1.0,"110/60 Waverley Road, Malvern East",150000.0,Calvin Pais,Malvern East
+4.0,2.0,House,5.0,"199 Gladesville Boulevard, Patterson Lakes",2750000.0,Justin Maher,Patterson Lakes
+2.0,2.0,Unit,4.0,"2/34 Margaret Street, Clayton",825000.0,Alan Zhang,Clayton
+2.0,3.0,Townhouse,4.0,"17 Madeline Street, Glen Iris",1550000.0,Danae Feng,Glen Iris
+2.0,2.0,House,3.0,"32 Range Road, Burwood East",1055000.0,Jason Yu,Burwood East
+2.0,3.0,Townhouse,4.0,"1/36 Ruby Street, Burwood East",1300000.0,Jack Zhang,Burwood East
+1.0,1.0,Apartment,1.0,"711/850 Whitehorse Road, Box Hill",435000.0,Hugh Weng,Box Hill
+2.0,3.0,House,4.0,"42 Park Lane, Mount Waverley",2100000.0,Leon Li,Mount Waverley
+2.0,2.0,House,4.0,"2 Union Road, Surrey Hills",2780000.0,Robert Ding,Surrey Hills
+4.0,3.0,House,5.0,"303 Blackburn Road, Mount Waverley",2890000.0,Eddie Fu,Mount Waverley
+1.0,1.0,Unit,2.0,"2/17 Glencairn Avenue, Camberwell",970000.0,Liam Burke,Camberwell
+1.0,2.0,Townhouse,2.0,"1/85 Orange Street, Bentleigh East",828000.0,Harrison Mosley,Bentleigh East
+2.0,2.0,Townhouse,3.0,"13/200-203 Nepean Highway, Seaford",805000.0,Daniel Keleher,Seaford
+2.0,2.0,Apartment,3.0,"303/6 Butler Street, Camberwell",1245000.0,Kate Hurburgh,Camberwell
+1.0,2.0,Apartment,2.0,"2301/850 Whitehorse Road, Box Hill",750.0,Kobe Li,Box Hill
+1.0,1.0,Apartment,2.0,"901/864 Blackburn Road, Clayton",525000.0,Phuc Le,Clayton
+1.0,2.0,Apartment,2.0,"LG02/28-34 Boisdale Street, Surrey Hills",610000.0,Gilbert Ng,Surrey Hills
+2.0,2.0,Townhouse,3.0,"2/40 Nonna Street, Oakleigh East",1035000.0,Charlie Darlow,Oakleigh East
+2.0,2.0,House,3.0,"18 North Shore Drive, Patterson Lakes",1300000.0,Michael Marziale,Patterson Lakes
+2.0,2.0,Townhouse,3.0,"3/23 Barry Street, Seaford",770000.0,Daniel Keleher,Seaford
+2.0,3.0,Townhouse,4.0,"5/215 Highfield Road, Camberwell",1550000.0,Ripple Wu,Camberwell
+2.0,1.0,Townhouse,2.0,"10/17-21 Claude Street, Seaford",455000.0,Botany Park,Seaford
+1.0,2.0,Apartment,2.0,"213/1101 Toorak Road, Camberwell",442500.0,Stasi Adgemis,Camberwell
+2.0,1.0,House,3.0,"19a Breese Road, Langwarrin",715000.0,Andrew Guerin,Langwarrin
+1.0,1.0,Apartment,2.0,"1/12 Illowa Street, Malvern East",602500.0,Brett Phelan,Malvern East
+2.0,3.0,House,4.0,"35 Anthony Street, Langwarrin",1027500.0,Austin Phillips,Langwarrin
+2.0,2.0,Townhouse,3.0,"2/15 Caleb Street, Bentleigh East",1080000.0,Andrew Panagopoulos,Bentleigh East
+2.0,3.0,Townhouse,5.0,"1687 Dandenong Road, Oakleigh East",1620000.0,Adam Gillon,Oakleigh East
+2.0,2.0,House,3.0,"2/229 Nepean Highway, Seaford",1037500.0,Dean Bozunovic,Seaford
+2.0,1.0,Townhouse,3.0,"3/732-734 Warrigal Road, Malvern East",950000.0,Tama Mclean,Malvern East
+1.0,1.0,Unit,2.0,"5/800-802 Warrigal Road, Malvern East",425000.0,Eva Deng,Malvern East
+2.0,2.0,Townhouse,3.0,"3/199 Nepean Highway, Seaford",775000.0,George Devic,Seaford
+2.0,2.0,Townhouse,4.0,"17 Bainbridge Avenue, Seaford",885000.0,Aarryn Cooper,Seaford
+3.0,2.0,House,6.0,"2 Thurston Street, Box Hill",2700000.0,Ming Chen,Box Hill
+2.0,2.0,Townhouse,4.0,"1/23 Pippin Avenue, Burwood East",1200000.0,Ripple Wu,Burwood East
+1.0,1.0,Apartment,1.0,"309/154 Elgar Road, Box Hill South",279000.0,David Picking,Box Hill South
+2.0,2.0,House,4.0,"8 Nolan Court, Sandhurst",1490000.0,Michelle Stephens,Sandhurst
+1.0,1.0,Apartment,2.0,"3205/850 Whitehorse Road, Box Hill",504000.0,Frank Pang,Box Hill
+2.0,3.0,Townhouse,4.0,"4/22 Adrienne Crescent, Mount Waverley",1.0,Sergey Martynov,Mount Waverley
+2.0,2.0,House,4.0,"7 Derwent Lane, Sandhurst",815000.0,David Carroll,Sandhurst
+2.0,2.0,Apartment,2.0,"25/41-45 Harrow Street, Box Hill",570000.0,Alvin Lam,Box Hill
+2.0,3.0,Townhouse,4.0,"1/63 Main Road, Clayton South",940000.0,Ausky Real Estate,Clayton South
+2.0,1.0,Townhouse,3.0,"50a Vasey Street, Bentleigh East",920000.0,Jayden Irving,Bentleigh East
+2.0,5.0,House,5.0,"16 Splash Way, Lyndhurst",1549000.0,Nitin Bhatia,Lyndhurst
+2.0,2.0,Townhouse,4.0,"1/16 Jervis Street, Camberwell",1620000.0,Victoria Kwok,Camberwell
+1.0,2.0,Apartment,2.0,"1903/850 Whitehorse Road, Box Hill",573000.0,Richard Zhang,Box Hill
+1.0,1.0,Apartment,2.0,"101/19-21 Poplar Street, Box Hill",422500.0,Ginny Xia,Box Hill
+2.0,1.0,Townhouse,3.0,"3/1498-1502  North Road, Clayton",645000.0,Chris Zervas,Clayton
+3.0,2.0,Townhouse,3.0,"3/14 Bright Street, Camberwell",1325000.0,Fred Liu,Camberwell
+2.0,2.0,Residential land,3.0,"Lot 23/2A Brabham Way, Langwarrin",801012.5,Ash Marton,Langwarrin
+2.0,3.0,House,5.0,"2 Myriong Street, Clayton",1075000.0,Peter Liu,Clayton
+2.0,3.0,House,4.0,"40 Martin Road, Glen Iris",2580000.0,Zali Reynolds,Glen Iris
+1.0,1.0,Apartment,1.0,"7/14 Osborne Avenue, Glen Iris",365000.0,Jay Price,Glen Iris
+1.0,1.0,Apartment,1.0,"101/59-63 Warrigal Road, Hughesdale",360000.0,Peter Anastas,Hughesdale
+1.0,2.0,Apartment,2.0,"2607/3 Young Street, Box Hill",547500.0,Max Pang,Box Hill
+2.0,2.0,House,4.0,"11 Kingsley Grove, Mount Waverley",1450000.0,Eric Shan,Mount Waverley
+4.0,1.0,House,3.0,"32 Bursaria Crescent, Frankston North",727500.0,Penella Bozunovic,Frankston North
+2.0,2.0,House,4.0,"22 Jade Circuit, Burwood East",1050000.0,Kerry Huang,Burwood East
+1.0,1.0,House,3.0,"11 Stricta Court, Frankston North",635000.0,Mark Burke,Frankston North
+1.0,2.0,Apartment,2.0,"101/18 Lomandra Drive, Clayton South",525000.0,Peter Liu,Clayton South
+2.0,2.0,House,4.0,"56 Eley Road, Burwood East",1885000.0,Koning Zheng,Burwood East
+1.0,1.0,Apartment,2.0,"Address available on request, Box Hill",580420.0,Poonam Bhansali,Box Hill
+4.0,1.0,House,3.0,"15A Francis Street, Clayton",1730000.0,Chris Karantzas,Clayton
+1.0,2.0,Apartment,2.0,"406/803 Dandenong Road, Malvern East",470000.0,Amanda Wei,Malvern East
+2.0,3.0,Townhouse,4.0,"15C Colin Road, Oakleigh South",840000.0,Miles Chen,Oakleigh South
+2.0,2.0,Residential land,3.0,"Lot 24/2A Brabham Way, Langwarrin",751012.5,Ash Marton,Langwarrin
+1.0,2.0,Apartment,2.0,"2710/3 Young Street, Box Hill",600000.0,Daniel Wang,Box Hill
+1.0,1.0,Unit,2.0,"204/160 Union Road, Surrey Hills",530000.0,Spring Chen,Surrey Hills
+2.0,3.0,House,5.0,"33 Rustic Avenue, Burwood East",1500000.0,Connor Sun,Burwood East
+2.0,1.0,House,4.0,"48 Latrobe Street, Hughesdale",1050000.0,Jake Mabey,Hughesdale
+2.0,2.0,House,4.0,"20 Korina Court, Langwarrin",807500.0,Matthew Thompson,Langwarrin
+2.0,2.0,Apartment,2.0,"701/9-11 Prospect Street, Box Hill",490000.0,Leo Bi,Box Hill
+1.0,2.0,Townhouse,2.0,"4/16 Browns Road, Bentleigh East",799950.0,ALEK KOSTOVSKI,Bentleigh East
+2.0,2.0,Unit,3.0,"Address available on request, Bentleigh East",1180000.0,Tony Che,Bentleigh East
+1.0,2.0,Apartment,2.0,"36 Prospect Street, Box Hill",600000.0,Justin Jiang,Box Hill
+2.0,3.0,Townhouse,3.0,"2/91 Eley Road, Box Hill South",950.0,Howard Li,Box Hill South
+2.0,2.0,Residential land,3.0,"3/4 Colin Road, Clayton",625000.0,Gareth Apswoude,Clayton
+1.0,1.0,Apartment,2.0,"10/1544 Malvern Road, Glen Iris",605000.0,Liam Burke,Glen Iris
+2.0,2.0,House,4.0,"16 Glendowan Road, Mount Waverley",1880000.0,Jared Wei,Mount Waverley
+1.0,2.0,Unit,2.0,"11 Tranquility Drive, Bangholme",315000.0,Peter Dodd,Bangholme
+2.0,2.0,House,4.0,"10 Glendale Street, Surrey Hills",1900000.0,Julian Papas,Surrey Hills
+1.0,2.0,Apartment,1.0,"G19/6 Clarkson Court, Clayton",325000.0,Chloe Zang,Clayton
+2.0,1.0,House,3.0,"275 Blackburn Road, Blackburn South",1050000.0,Tabinda Naaz,Blackburn South
+2.0,4.0,House,6.0,"8 Scott Avenue, Clayton South",2415000.0,Linna Wu,Clayton South
+2.0,3.0,Townhouse,4.0,"1/30 Browning Avenue, Clayton South",924000.0,Miles Chen,Clayton South
+1.0,2.0,Apartment,1.0,"2403C/851 Whitehorse Road, Box Hill",418000.0,Ritesh Patel,Box Hill
+2.0,3.0,Townhouse,4.0,"7A Manuka Street, Bentleigh East",1895000.0,Dimitri Spanos,Bentleigh East
+2.0,1.0,Apartment,1.0,"1508/11 Prospect Street, Box Hill",407500.0,Andy Yuan,Box Hill
+2.0,2.0,House,3.0,"383A Burke Road, Glen Iris",1525000.0,Agustin Falk,Glen Iris
+1.0,1.0,House,1.0,"10 Harold Street & 55,57-59 High Street Road, Ashwood",6500000.0,Ellie Gong,Ashwood
+1.0,2.0,Apartment,3.0,"2101/3 Young Street, Box Hill",637500.0,Nick Tang,Box Hill
+2.0,2.0,Townhouse,4.0,"3/1025 Riversdale Road, Surrey Hills",1450000.0,Spring Chen,Surrey Hills
+1.0,1.0,Unit,2.0,"4/40 Valley Street, Oakleigh South",684000.0,Frank Scalise,Oakleigh South
+2.0,2.0,House,4.0,"9 Bulga Wattle Circuit, Lyndhurst",935000.0,Karam Khurana,Lyndhurst
+2.0,2.0,House,3.0,"6 Penley Lane, Sandhurst",770000.0,Eva Cumming,Sandhurst
+1.0,1.0,Apartment,1.0,"1107/803 Dandenong Road, Malvern East",445000.0,Elaine Qian,Malvern East
+2.0,2.0,House,4.0,"19 Virginia Grove, Malvern East",1750000.0,Janssen Xiang,Malvern East
+1.0,2.0,Apartment,2.0,"302/1009 Dandenong Road, Malvern East",580000.0,Ruby Ng,Malvern East
+2.0,2.0,House,5.0,"86 Emo Road, Malvern East",2775000.0,Philipson Sillah,Malvern East
+2.0,2.0,Apartment,3.0,"G12/1559 - 1567 High Street, Glen Iris",1145500.0,Nick Walker,Glen Iris
+1.0,1.0,Apartment,2.0,"503/1559 - 1567 High Street, Glen Iris",699000.0,Annabelle Feng,Glen Iris
+2.0,2.0,Apartment,3.0,"111/1559 - 1567 High Street, Glen Iris",1312500.0,Annabelle Feng,Glen Iris
+2.0,4.0,Townhouse,4.0,"39A Castlewood Street, Bentleigh East",1465000.0,Chris Hassall,Bentleigh East
+1.0,1.0,Apartment,2.0,"105/160 Union Road, Surrey Hills",599000.0,Mary Li,Surrey Hills
+6.0,2.0,House,6.0,"13 Hopetoun Avenue, Canterbury",7250000.0,Elsa Li,Canterbury
+2.0,1.0,Unit,4.0,"1/6 Burns Avenue, Clayton South",775000.0,Michael Renzella,Clayton South
+5.0,3.0,Acreage,4.0,"10 Kelvin Grove, Langwarrin",1850000.0,Nicholas Cassidy,Langwarrin
+2.0,3.0,Townhouse,4.0,"1,3,4/23 Bevan Avenue, Clayton South",1100000.0,Ethan He,Clayton South
+1.0,1.0,Retirement living,2.0,"2/59-73 Gladesville Boulevard, Patterson Lakes",470000.0,George Begala,Patterson Lakes
+2.0,2.0,Apartment,2.0,"44/117 McLeod Road, Patterson Lakes",722500.0,Jane Webb,Patterson Lakes
+2.0,2.0,House,4.0,"1-3/12 Athol Court, Langwarrin",832500.0,Andrew Guerin,Langwarrin
+6.0,2.0,Acreage,4.0,"49 Elms Road, Bangholme",2310000.0,Peter Corica,Bangholme
+1.0,2.0,Apartment,2.0,"1401/9 prospect street, Box Hill",655000.0,Michael Wu,Box Hill
+1.0,2.0,Apartment,2.0,"1904A/845 Whitehorse Road, Box Hill",609000.0,Alvin Lam,Box Hill
+1.0,1.0,Unit,3.0,"4/23 Simpsons Road, Box Hill",815000.0,Michael Steenhuis,Box Hill
+1.0,2.0,House,3.0,"22 Milroy Crescent, Seaford",875000.0,Brad Ryan,Seaford
+1.0,2.0,Apartment,2.0,"103/358 Canterbury Road, Surrey Hills",745000.0,Adele Mirabella,Surrey Hills
+3.0,3.0,Townhouse,4.0,"846-848 North Road, Bentleigh East",1.0,Akshay Ahuja,Bentleigh East
+1.0,2.0,Apartment,2.0,"811/3 Young Street, Box Hill",565000.0,Andy Yuan,Box Hill
+1.0,2.0,Apartment,2.0,"101/437 Camberwell Road, Camberwell",887500.0,Tim Heavyside,Camberwell
+2.0,2.0,House,4.0,"15 VIEWLINE WAY, Lyndhurst",954000.0,Hardeep Singh,Lyndhurst
+4.0,2.0,House,4.0,"41 Curlew Point Dr, Patterson Lakes",2100000.0,Louis Lin,Patterson Lakes
+2.0,2.0,House,4.0,"33 Bedford Street, Box Hill",1750000.0,Dennis Shi,Box Hill
+3.0,2.0,House,4.0,"14 Beachcomber Court, Patterson Lakes",3097500.0,Will Pilbeam-Walker,Patterson Lakes
+1.0,2.0,Apartment,2.0,"2603/3 Young Street, Box Hill",570000.0,AJ Lee Sales Team,Box Hill
+2.0,3.0,House,4.0,"8 Lesay Court, Mount Waverley",1400000.0,Wade Li,Mount Waverley
+4.0,2.0,House,5.0,"2 Sturdee Street, Box Hill",19.0,Eric Zhang,Box Hill
+6.0,3.0,House,5.0,"6 Pindara Boulevard, Langwarrin",1837500.0,Darren Eichenberger,Langwarrin
+6.0,1.0,House,3.0,"10 Bush Court, Langwarrin",829500.0,Darren Eichenberger,Langwarrin
+2.0,2.0,House,4.0,"8 Lemnian Court, Langwarrin",1155000.0,Darren Eichenberger,Langwarrin
+1.0,2.0,Apartment,2.0,"809/710 Station Street, Box Hill",510000.0,Kelly Sun,Box Hill
+1.0,1.0,Apartment,2.0,"513/70 Batesford Road, Chadstone",460000.0,Alisha Dodge,Chadstone
+1.0,1.0,Apartment,2.0,"3/1045 Whitehorse Road, Box Hill",512000.0,Frank Pang,Box Hill
+2.0,1.0,Unit,2.0,"7/7 Crawford Road, Clarinda",770000.0,Peter Laspas,Clarinda
+1.0,1.0,Apartment,2.0,"206/19 Irving Ave, Box Hill",438000.0,Tony Kwan,Box Hill
+1.0,2.0,Unit,3.0,"8/3 Seaford Road, Seaford",675000.0,Aidan Oke,Seaford
+2.0,2.0,House,4.0,"157 Aylmer Road, Lyndhurst",1250000.0,Chaminda Gunasekara,Lyndhurst
+2.0,2.0,House,3.0,"2 Edinburgh Road, Blackburn South",1550000.0,Spring Chen,Blackburn South
+2.0,2.0,House,3.0,"6 Anthony Court, Seaford",1222000.0,Georgia Ryan,Seaford
+2.0,3.0,Townhouse,4.0,"2a Schulz Street, Bentleigh East",1550000.0,Harrison Mosley,Bentleigh East
+1.0,2.0,Apartment,2.0,"1707/3 Young Street, Box Hill",590000.0,John Chen,Box Hill
+2.0,1.0,House,4.0,"25 Grandview Road, Box Hill South",1300000.0,Ben Williams,Box Hill South
+1.0,2.0,Apartment,2.0,"112/9 Foundation Boulevard, Burwood East",615000.0,David Zhou,Burwood East
+2.0,3.0,House,5.0,"26 Watergardens Circuit, Lyndhurst",1200000.0,Bahroz Abbasi,Lyndhurst
+2.0,2.0,Apartment,3.0,"5/1789 Malvern Road, Glen Iris",1050000.0,Will Bennison,Glen Iris
+9.0,10.0,Unit,15.0,"1-5/14-16 Legon Road, Oakleigh South",4200000.0,Ritesh Saigal,Oakleigh South
+2.0,2.0,Acreage,4.0,"50 Highview Road, Skye",2625000.0,Andrew Guerin,Skye
+2.0,3.0,House,5.0,"3 Love Street, Camberwell",4290000.0,Jason Brinkworth,Camberwell
+2.0,3.0,House,4.0,"31/325 Station Street, Box Hill South",1323000.0,Helen Yan,Box Hill South
+2.0,1.0,House,4.0,"15 Grandview Road, Box Hill South",1850000.0,Ben Williams,Box Hill South
+2.0,2.0,House,4.0,"24 Cornell Street, Camberwell",2750000.0,Steve Burke,Camberwell
+1.0,2.0,House,3.0,"150 Darling Road, Malvern East",1550000.0,Vivienne Chen,Malvern East
+2.0,2.0,Apartment,3.0,"105/1789 Malvern Road, Glen Iris",1005000.0,Tony Doh,Glen Iris
+2.0,2.0,Townhouse,2.0,"6/443 Burke Road, Glen Iris",787500.0,Jay Price,Glen Iris
+2.0,2.0,House,4.0,"20 Devon Street, Box Hill South",1600000.0,Demi Liu,Box Hill South
+2.0,2.0,House,4.0,"9 Richard Drive, Langwarrin",997500.0,Michelle Stephens,Langwarrin
+2.0,2.0,House,4.0,"7 Commonwealth Terrace, Sandhurst",1207500.0,Michelle Stephens,Sandhurst
+1.0,1.0,Apartment,2.0,"27/10-16 White Street, Glen Iris",440000.0,Jack Resic,Glen Iris
+1.0,2.0,Townhouse,2.0,"3/1-3 Montrose Street, Ashwood",945000.0,Neil Zheng,Ashwood
+2.0,3.0,Townhouse,3.0,"547A Waverley Road, Malvern East",1380000.0,Ellie Gong,Malvern East
+2.0,3.0,Townhouse,4.0,"Address available on request, Oakleigh East",1300000.0,Frank Scalise,Oakleigh East
+2.0,2.0,House,4.0,"28 Samarinda Avenue, Ashburton",1575000.0,Zali Reynolds,Ashburton
+1.0,1.0,Apartment,1.0,"123/347 Camberwell Road, Camberwell",410000.0,Claudio Perruzza,Camberwell
+2.0,3.0,Townhouse,4.0,"1-3/27 Alfred Grove, Oakleigh East",1155000.0,Peter Liu,Oakleigh East
+1.0,2.0,Apartment,2.0,"1401/36 Prospect Street, Box Hill",697000.0,Daniel Wang,Box Hill
+3.0,1.0,Unit,3.0,"11/25 Potts Road, Langwarrin",619500.0,Luke Magree,Langwarrin
+1.0,1.0,Unit,3.0,"1/95-97 Chadstone Road, Malvern East",825000.0,Sarah Risteski,Malvern East
+2.0,2.0,House,4.0,"17A Duncan Avenue, Seaford",1033500.0,Brooke Wegener,Seaford
+2.0,2.0,Unit,3.0,"1/4 Kunzea Court, Mount Waverley",1530000.0,Peter Serafino,Mount Waverley
+2.0,2.0,House,4.0,"55 Quarry Road, Langwarrin",2625000.0,Chris Cole,Langwarrin
+2.0,3.0,Townhouse,3.0,"17 Indra Road, Blackburn South",1417500.0,James Hatzolos,Blackburn South
+2.0,2.0,House,4.0,"6 Ashcroft Grove, Blackburn South",1450000.0,William Shen,Blackburn South
+2.0,2.0,Townhouse,3.0,"2/5 Tandara Court, Chadstone",1025000.0,Yannie Hou,Chadstone
+2.0,2.0,Unit,4.0,"1/7 Macrina Street, Oakleigh East",10.0,Elroy Malowney,Oakleigh East
+4.0,4.0,House,10.0,"1987-1989 Dandenong Road, Clayton",3500000.0,Ethan He,Clayton
+2.0,1.0,House,3.0,"16 Paramount Avenue, Blackburn South",1200000.0,Ben Williams,Blackburn South
+2.0,1.0,House,4.0,"20 Cash Grove, Mount Waverley",1220000.0,Richard Qiu,Mount Waverley
+1.0,1.0,Unit,2.0,"3/571 Camberwell Road, Camberwell",815000.0,George Mitry,Camberwell
+1.0,2.0,Apartment,2.0,"106/1009-1011 Dandenong Road, Malvern East",615000.0,Charles Boyd,Malvern East
+2.0,2.0,House,4.0,"10 Brilliante Circuit, Langwarrin",1050000.0,Mark Stott,Langwarrin
+2.0,1.0,Apartment,1.0,"101/5-7 Irving Avenue, Box Hill",350000.0,Amanda Wei,Box Hill
+1.0,1.0,Townhouse,2.0,"4/4 Kimbarra Street, Clayton South",690000.0,Peter Laspas,Clayton South
+2.0,2.0,Apartment,2.0,"42/117 Mcleod Road, Patterson Lakes",677500.0,Michael Marziale,Patterson Lakes
+1.0,2.0,Apartment,2.0,"G05/934 Canterbury Road, Box Hill South",625000.0,Tony Kwan,Box Hill South
+1.0,1.0,Unit,2.0,"1/136 Windsor Crescent, Surrey Hills",815000.0,Tim Heavyside,Surrey Hills
+1.0,1.0,Apartment,2.0,"5/138 Milton Parade, Glen Iris",690000.0,Gerry Setiyadi,Glen Iris
+2.0,2.0,Townhouse,3.0,"4/15 Timmings Street, Chadstone",924000.0,Peter Liu,Chadstone
+2.0,3.0,Townhouse,4.0,"5/21-25 Fairholm Grove, Camberwell",1625000.0,Tim Heavyside,Camberwell
+1.0,1.0,House,2.0,"11 Railway Parade, Seaford",765000.0,Gill Harkirat,Seaford
+1.0,1.0,Apartment,2.0,"104/1346 Dandenong Road, Hughesdale",625000.0,Lal Gamage,Hughesdale
+1.0,1.0,Unit,2.0,"7/117 East Road, Seaford",545000.0,Rachel Lewis,Seaford
+6.0,3.0,House,5.0,"6 Allenby Road, Canterbury",3150000.0,Peter Vigano,Canterbury
+3.0,2.0,Townhouse,4.0,"15a Jassa Street, Bentleigh East",1650000.0,Jayden Irving,Bentleigh East
+1.0,1.0,Apartment,1.0,"109/2 Archibald Street, Box Hill",287500.0,William Geng,Box Hill
+1.0,1.0,House,2.0,"6 Francesco Street, Bentleigh East",1350000.0,Tony Cinque,Bentleigh East
+2.0,1.0,House,3.0,"71 Nicholas Street, Ashburton",1775000.0,Mark Pezzin,Ashburton
+1.0,1.0,House,3.0,"1/71 Park Street, Seaford",870000.0,Daniel McGlashan,Seaford
+2.0,3.0,Townhouse,5.0,"1,2,5/39 Rosebank Avenue, Clayton South",1150000.0,Ethan He,Clayton South
+2.0,2.0,House,4.0,"474 Camberwell Road, Camberwell",2205000.0,Stephen Gough,Camberwell
+2.0,2.0,Apartment,2.0,"2401/545 Station Street, Box Hill",525000.0,Ken Ho,Box Hill
+2.0,3.0,Townhouse,3.0,"10/11-13 Travers Crescent, Burwood East",1150000.0,Connor Sun,Burwood East
+6.0,2.0,House,4.0,"8 Wedge Court, Seaford",1430000.0,Justin Maher,Seaford
+1.0,2.0,Apartment,2.0,"509/15 Irving Avenue, Box Hill",612500.0,Joo Ming Lim,Box Hill
+1.0,1.0,Apartment,2.0,"5/7 Burns Avenue, Clayton South",420000.0,George Koussoulas,Clayton South
+2.0,3.0,House,5.0,"24 Hastings Avenue, Blackburn South",1.0,Todd Lucas,Blackburn South
+2.0,1.0,House,3.0,"63 Eley Road, Blackburn South",1.0,Melanie Barry,Blackburn South
+3.0,1.0,House,3.0,"67 Victor Road, Bentleigh East",1325000.0,Anthony Fordham,Bentleigh East
+1.0,1.0,Apartment,2.0,"3/894 Burke Rd, Canterbury",500000.0,Ray Wan,Canterbury
+2.0,2.0,House,5.0,"5 Bellevue Avenue, Malvern East",2100000.0,Hugh Francis,Malvern East
+2.0,2.0,Townhouse,3.0,"3/8 Kelly Street, Chadstone",735000.0,Tai Menahem,Chadstone
+2.0,2.0,House,3.0,"1/44 Kurrawa Crescent, Patterson Lakes",839500.0,Shane Donovan,Patterson Lakes
+2.0,3.0,Townhouse,4.0,"32 Bevan Ave, Clayton South",900.0,Tim Lu,Clayton South
+2.0,2.0,House,4.0,"122 Mont Albert Road, Canterbury",4500000.0,Simon Lord,Canterbury
+3.0,2.0,House,7.0,"722 Warrigal Road, Malvern East",4000000.0,Janelle Gu,Malvern East
+4.0,2.0,House,5.0,"11 Argyle Close, Hughesdale",1450000.0,Rohan Cleary,Hughesdale
+2.0,1.0,House,3.0,"245 Frankston-Dandenong Road, Frankston North",669900.0,Mark Burke,Frankston North
+8.0,5.0,House,13.0,"1359-1365 Centre Road, Clayton",6600000.0,Peter Liu,Clayton
+2.0,2.0,House,4.0,"116 Boland Drive, Lyndhurst",1050000.0,Chaminda Gunasekara,Lyndhurst
+1.0,1.0,House,3.0,"113 Albion Road, Box Hill",1725000.0,Nicholas Conroy,Box Hill
+2.0,2.0,Unit,3.0,"4/7 Montrose Street, Surrey Hills",1550000.0,Jeremy Desmier,Surrey Hills
+2.0,2.0,House,3.0,"2/63 Cranbourne-Frankston Road, Langwarrin",859000.0,Darren Eichenberger,Langwarrin
+3.0,3.0,Townhouse,4.0,"31 Stanley Avenue, Mount Waverley",1600000.0,Ethan He,Mount Waverley
+1.0,1.0,Apartment,2.0,"1/1036-1038 North Road, Bentleigh East",525000.0,Dimitri Spanos,Bentleigh East
+2.0,1.0,Unit,2.0,"3/18 Barkly Street, Box Hill",829500.0,Brandon Chuah,Box Hill
+4.0,2.0,House,3.0,"175 North Road, Langwarrin",790000.0,Daniel Robinson,Langwarrin
+1.0,2.0,Apartment,2.0,"1507/11 Prospect Street, Box Hill",630000.0,Leo Bi,Box Hill
+4.0,2.0,House,4.0,"46 North Shore Drive, Patterson Lakes",1567500.0,Lubna Musa,Patterson Lakes
+1.0,2.0,Apartment,2.0,"22/4 Wills Street, Glen Iris",575000.0,Dion Besser,Glen Iris
+2.0,3.0,Apartment,3.0,"3401/545 Station Street, Box Hill",1350000.0,Cain Wang,Box Hill
+2.0,2.0,Townhouse,3.0,"3/128 Milton Parade, Glen Iris",1795000.0,Joseph Ben-Danan,Glen Iris
+8.0,2.0,Acreage,5.0,"61 Highfield Drive, Langwarrin South",3000000.0,JAMIE UNIVERSITA,Langwarrin South
+1.0,2.0,Apartment,2.0,"Address available on request, Burwood East",625000.0,Andy Su,Burwood East
+2.0,3.0,House,4.0,"14 Dixon Street, Glen Iris",3395000.0,Anthony Reis,Glen Iris
+2.0,2.0,Apartment,2.0,"1201C/851 Whitehorse Road, Box Hill",690000.0,Cherry Lim,Box Hill
+1.0,2.0,Apartment,3.0,"1201A/845-851 Whitehorse Road, Box Hill",869000.0,Cherry Lim,Box Hill
+2.0,2.0,Townhouse,3.0,"5/1 Canberra Street, Patterson Lakes",1285000.0,George Begala,Patterson Lakes
+2.0,2.0,Townhouse,3.0,"1/4 Maple Street, Langwarrin",787500.0,Ash Marton,Langwarrin
+2.0,1.0,House,3.0,"10 Alcon Court, Langwarrin",820000.0,Jamie O'Halloran,Langwarrin
+2.0,3.0,Townhouse,3.0,"17 Pier One Drive, Patterson Lakes",2600000.0,Michael Marziale,Patterson Lakes
+2.0,3.0,House,4.0,"69 Munro Avenue, Ashburton",2425000.0,Todd Braggins,Ashburton
+2.0,2.0,House,5.0,"4 Boardman Street, Malvern East",1675000.0,Brett Phelan,Malvern East
+2.0,1.0,House,3.0,"6 The Rialto, Malvern East",1550000.0,Brett Phelan,Malvern East
+2.0,2.0,House,4.0,"27 Romina Drive, Langwarrin",934500.0,Michelle Stephens,Langwarrin
+2.0,3.0,House,4.0,"1/1 Lucerne Street, Mount Waverley",1500000.0,Peter Serafino,Mount Waverley
+1.0,1.0,House,3.0,"11 Kangerong Road, Box Hill",1050000.0,Steven Yuen,Box Hill
+4.0,2.0,House,4.0,"21 Lerina Street, Oakleigh East",1595000.0,Charlie Darlow,Oakleigh East
+2.0,1.0,Unit,2.0,"2/114 Darling Road, Malvern East",1050000.0,Chris Cain,Malvern East
+2.0,1.0,House,3.0,"108 Carrington Road, Box Hill",4147500.0,Dave Tang,Box Hill
+1.0,1.0,Apartment,1.0,"9/1 Mackie Road, Bentleigh East",387500.0,Daniel Seyran,Bentleigh East
+2.0,1.0,House,4.0,"50 Baratta Street, Blackburn South",1285000.0,Andrew Luke,Blackburn South
+1.0,2.0,House,4.0,"11 Potts Road, Langwarrin",825000.0,Jared McGovern,Langwarrin
+1.0,1.0,Apartment,2.0,"Address available on request, Box Hill",530000.0,Poonam Bhansali,Box Hill
+1.0,1.0,Unit,2.0,"5/300 Tooronga Road, Glen Iris",825000.0,Michael Richardson,Glen Iris
+2.0,1.0,House,3.0,"33 Normanby Street, Hughesdale",1250000.0,Daniel Micmacher,Hughesdale
+2.0,2.0,House,4.0,"24 Wodalla Place, Lyndhurst",820000.0,Metin Aziret,Lyndhurst
+2.0,2.0,Townhouse,4.0,"2/42 Birdwood Street, Box Hill South",1200000.0,Stephen Le Get,Box Hill South
+3.0,1.0,House,4.0,"59 Purtell Street, Bentleigh East",1450000.0,Robert De Freitas,Bentleigh East
+2.0,2.0,House,5.0,"24 Everglades Street, Lyndhurst",1145000.0,Chaminda Gunasekara,Lyndhurst
+2.0,1.0,House,2.0,"31 Abbotsford Avenue, Malvern East",1150000.0,Chris Karantzas,Malvern East
+1.0,1.0,House,3.0,"1 Helia Court, Burwood East",1150000.0,Julian Badenach,Burwood East
+2.0,1.0,House,3.0,"66 Eva Street, Clayton",1050000.0,Chris Karantzas,Clayton
+2.0,2.0,House,4.0,"4 View Street, Canterbury",3790000.0,Lawrence Zhu,Canterbury
+1.0,2.0,Apartment,2.0,"G06/26 Foundation Boulevard, Burwood East",825000.0,Neil Zheng,Burwood East
+2.0,2.0,House,4.0,"249A Tooronga Road, Glen Iris",1942500.0,Lachie Fraser-Smith,Glen Iris
+3.0,2.0,House,4.0,"119 Brookwater Parade, Lyndhurst",920000.0,Khaled Arabzadeh,Lyndhurst
+1.0,1.0,Apartment,2.0,"601/19-21 Poplar Street, Box Hill",430000.0,Nick Tang,Box Hill
+1.0,2.0,Apartment,2.0,"104/437 Camberwell Road, Camberwell",820000.0,Charlie Richardson,Camberwell
+1.0,2.0,Apartment,2.0,"106/50 Seymour Grove, Camberwell",730000.0,Steve Dardamanis,Camberwell
+1.0,1.0,Apartment,2.0,"1619/850 Whitehorse Road, Box Hill",470000.0,Tony Kwan,Box Hill
+2.0,4.0,House,5.0,"52 Begonia Street, Box Hill South",1430000.0,Michelle Yan,Box Hill South
+2.0,2.0,House,4.0,"547 Camberwell Road, Camberwell",2200000.0,Duane Wolowiec,Camberwell
+2.0,2.0,Townhouse,3.0,"3/15 Surrey Street, Box Hill South",945000.0,Leo Bi,Box Hill South
+1.0,1.0,Apartment,2.0,"2/41 Harrow Street, Box Hill",545000.0,Nathan Li,Box Hill
+3.0,2.0,Townhouse,5.0,"25b Hinkler Avenue, Bentleigh East",1675000.0,Kosta Mesaritis,Bentleigh East
+1.0,2.0,Unit,2.0,"3/25 Thompson Street, Clayton",720000.0,Jason Xi,Clayton
+2.0,1.0,House,2.0,"21 Bond Street, Clayton South",900000.0,Jason Xi,Clayton South
+2.0,1.0,House,3.0,"1/86 Willesden Road, Hughesdale",1230000.0,Chris Karantzas,Hughesdale
+2.0,1.0,Unit,2.0,"3/13-15 Baker Street, Malvern East",915000.0,Brett Phelan,Malvern East
+4.0,2.0,House,5.0,"21 Pier One Drive, Patterson Lakes",2300000.0,Vanda Kaye,Patterson Lakes
+3.0,2.0,House,4.0,"14 Bushland Avenue, Clarinda",1230000.0,Chris Karantzas,Clarinda
+2.0,2.0,Unit,2.0,"305/1615 Malvern Road, Glen Iris",840000.0,Anders Simon,Glen Iris
+2.0,2.0,House,4.0,"306 Station Street, Box Hill South",1305000.0,Emma Yu,Box Hill South
+2.0,2.0,House,4.0,"94 Sandarra Boulevard, Sandhurst",1215000.0,Shane Donovan,Sandhurst
+2.0,2.0,House,4.0,"10 Cunningham Crescent, Sandhurst",1299500.0,Shane Donovan,Sandhurst
+2.0,2.0,House,5.0,"177 Brookwater Parade, Lyndhurst",1074000.0,Gary Singh,Lyndhurst
+2.0,2.0,Villa,2.0,"2/1679 Malvern Road, Glen Iris",840000.0,Paul Walker,Glen Iris
+2.0,3.0,Townhouse,4.0,"2/14 Garden Road, Camberwell",1575000.0,Tim Heavyside,Camberwell
+3.0,2.0,House,5.0,"2a Alexandra Avenue, Canterbury",5985000.0,Elsa Li,Canterbury
+1.0,2.0,Apartment,2.0,"MCity 1118/864 Blackburn Road, Clayton",580000.0,Jimmy Zhou,Clayton
+2.0,2.0,Apartment,3.0,"1108/545 Station Street, Box Hill",855000.0,Yvonne Zhao,Box Hill
+2.0,1.0,House,1.0,"113 Waverley Road, Malvern East",945000.0,Kerry Huang,Malvern East
+1.0,1.0,House,3.0,"957 Canterbury Road, Box Hill",1190000.0,Alan Zou,Box Hill
+1.0,1.0,House,3.0,"5 Vivian Court, Oakleigh South",1370000.0,Gary Sahni,Oakleigh South
+2.0,3.0,Townhouse,4.0,"10/181 East Boundary Road, Bentleigh East",1207500.0,Melissa Hetherington,Bentleigh East
+1.0,2.0,Townhouse,3.0,"2/7-11 Ocean Reef Drive, Patterson Lakes",725000.0,Daniel Wright,Patterson Lakes
+4.0,2.0,House,4.0,"1&2/18 Fairbank Road, Clayton South",997500.0,Jonathon Eaves,Clayton South
+1.0,1.0,Apartment,2.0,"4/1395 High Street, Glen Iris",585000.0,Conor Burke,Glen Iris
+2.0,7.0,Townhouse,7.0,"2/4 Hilltop Avenue, Clayton",1650000.0,Con Stefanidis,Clayton
+1.0,1.0,Apartment,2.0,"212/712-714 Station Street, Box Hill",430000.0,Anita Wei,Box Hill
+2.0,2.0,Townhouse,3.0,"1/33 Broughton Road, Surrey Hills",1350000.0,Spring Chen,Surrey Hills
+2.0,1.0,Studio,1.0,"1/109 Mcleod Road, Patterson Lakes",202500.0,Ashley Patane,Patterson Lakes
+1.0,2.0,Apartment,2.0,"312/59-63 Warrigal Road, Hughesdale",505000.0,Chris Kavanagh,Hughesdale
+2.0,1.0,House,3.0,"257 Clayton Road, Clayton",2100000.0,Ethan He,Clayton
+2.0,2.0,House,3.0,"21 White Street, Glen Iris",2650000.0,Emma Yu,Glen Iris
+2.0,2.0,House,4.0,"8 William Street, Box Hill",2100000.0,Dennis Shi,Box Hill
+2.0,2.0,House,5.0,"112 Darling Road, Malvern East",2775000.0,ARI LEVIN,Malvern East
+2.0,1.0,House,3.0,"38 Waratah Street, Bentleigh East",1032500.0,Melissa Hetherington,Bentleigh East
+4.0,2.0,House,3.0,"9 Adrian Street, Bentleigh East",1575000.0,Simon Pintado,Bentleigh East
+1.0,1.0,Apartment,2.0,"3/76 East Boundary Road, Bentleigh East",460000.0,Claude Mery,Bentleigh East
+1.0,1.0,Apartment,1.0,"206/53 Browns Road, Bentleigh East",360000.0,Claude Mery,Bentleigh East
+2.0,2.0,Townhouse,2.0,"2/20-22 Albion Road, Box Hill",650.0,Frank Molinaro,Box Hill
+2.0,3.0,House,4.0,"22 Nagle Drive, Sandhurst",1185000.0,Michelle Stephens,Sandhurst
+2.0,1.0,Unit,3.0,"2/20 Carmichael Road, Oakleigh East",735000.0,Frank Scalise,Oakleigh East
+4.0,1.0,House,3.0,"626 Centre Road, Bentleigh East",925000.0,Gavin Van Rooyen,Bentleigh East
+2.0,2.0,House,3.0,"10 Marinda Drive, Skye",787500.0,Michelle Stephens,Skye
+2.0,1.0,House,3.0,"49 Tambet Street, Bentleigh East",1102500.0,Gavin Van Rooyen,Bentleigh East
+3.0,2.0,House,5.0,"10 Gowar Avenue, Camberwell",3045000.0,Maria Xu,Camberwell
+2.0,1.0,House,2.0,"2/309 Mckinnon Road, Bentleigh East",1130000.0,Tom Grieve,Bentleigh East
+4.0,2.0,Townhouse,4.0,"10d Neville Street, Bentleigh East",1425000.0,Kosta Mesaritis,Bentleigh East
+4.0,4.0,Block of units,8.0,"4 Thomas Street, Clayton",1900000.0,Kyla Davis,Clayton
+2.0,2.0,Residential land,3.0,"15 Paxton Street, Malvern East",1350000.0,Brett Phelan,Malvern East
+3.0,2.0,House,3.0,"2/8 Malane Street, Bentleigh East",1144500.0,Tony Che,Bentleigh East
+1.0,1.0,Apartment,2.0,"2/39 Aintree Road, Glen Iris",565000.0,Lauchlan Waterfield,Glen Iris
+2.0,2.0,House,4.0,"49 Brinsley Road, Camberwell",2200000.0,Tim Heavyside,Camberwell
+1.0,1.0,Townhouse,2.0,"3, 9 & 15/370 Ballarto Road, Skye",570000.0,Sara Bizre,Skye
+1.0,1.0,Apartment,2.0,"11/293-294 Nepean Highway, Seaford",430000.0,Daniel Keleher,Seaford
+1.0,1.0,Apartment,2.0,"7/734 Centre Road, Bentleigh East",405000.0,Jerry Yeghichian,Bentleigh East
+1.0,2.0,House,2.0,"17 Palmerston Street, Camberwell",1250000.0,Tim Heavyside,Camberwell
+4.0,3.0,House,6.0,"223-225 Clayton Road, Clayton",4950000.0,David Sun,Clayton
+2.0,2.0,House,3.0,"5 Livida Circuit, Lyndhurst",690000.0,Edward Zhang,Lyndhurst
+1.0,2.0,Unit,2.0,"1/51 View Street, Clayton",815000.0,Peter Gigis,Clayton
+1.0,1.0,Apartment,2.0,"6/13 Myrniong Street, Glen Iris",605000.0,Chris Cain,Glen Iris
+3.0,2.0,House,4.0,"274 Warrigal Road, Glen Iris",1730000.0,Tai Menahem,Glen Iris
+1.0,1.0,Apartment,1.0,"204/839 Dandenong Road, Malvern East",304500.0,Adrian Faranda,Malvern East
+2.0,1.0,Townhouse,2.0,"34/910 Canterbury Road, Box Hill South",585000.0,Harry Lai,Box Hill South
+2.0,2.0,House,3.0,"17 Bianco Court, Langwarrin",820000.0,Andrew Guerin,Langwarrin
+3.0,2.0,Acreage,4.0,"80 Lyppards Road, Langwarrin",2330000.0,Andrew Guerin,Langwarrin
+1.0,1.0,Unit,2.0,"7/30 Wellington Road, Box Hill",850000.0,Ellie Gong,Box Hill
+2.0,2.0,House,5.0,"20 Whitby Way, Seaford",1590000.0,Sherrie Lee,Seaford
+2.0,1.0,House,4.0,"55 Alvie Road, Mount Waverley",1650000.0,Peter Kladouris,Mount Waverley
+2.0,2.0,Apartment,2.0,"903/845 Whitehorse Road, Box Hill",525000.0,Dez Oliver,Box Hill
+1.0,1.0,Apartment,1.0,"G05/1009 Dandenong Road, Malvern East",385000.0,Mike Muncey,Malvern East
+1.0,1.0,House,3.0,"32 Dorothy Street, Burwood East",1300000.0,Emma Yu,Burwood East
+2.0,2.0,House,3.0,"1/39 Jordan Street, Ashwood",1050000.0,Yuni Kim,Ashwood
+2.0,2.0,House,4.0,"1+2/133 Warrandyte Road, Langwarrin",1034500.0,Austin Phillips,Langwarrin
+2.0,1.0,House,3.0,"93 Old Dandenong Road, Oakleigh South",1050000.0,Max Martinucci,Oakleigh South
+2.0,1.0,Apartment,1.0,"603/19-21 Poplar Street, Box Hill",368000.0,Rachel Cao,Box Hill
+2.0,2.0,Apartment,2.0,"2410/3 Young Street, Box Hill",600000.0,Nick Tang,Box Hill
+2.0,2.0,House,3.0,"2/11 Bouvardia Crescent, Frankston North",565000.0,Lohit Sharma,Frankston North
+1.0,2.0,Townhouse,3.0,"4/16 Alfred Grove, Oakleigh East",850000.0,Tony Che,Oakleigh East
+1.0,2.0,Unit,3.0,"1/27 Chestnut Street, Surrey Hills",1005000.0,Demi Liu,Surrey Hills
+2.0,2.0,Townhouse,3.0,"1/47 Tennyson Avenue, Clayton South",815000.0,Michael Renzella,Clayton South
+3.0,3.0,House,5.0,"7 Victoria Avenue, Canterbury",6800000.0,Annabelle Feng,Canterbury
+2.0,2.0,House,4.0,"24 Mashie Terrace, Sandhurst",1505000.0,Shane Donovan,Sandhurst
+1.0,1.0,Apartment,1.0,"202/1 Mackie Road, Bentleigh East",387500.0,Charles Xu,Bentleigh East
+2.0,2.0,Unit,3.0,"2/8 Boyd Street, Blackburn South",885000.0,Cameron Way,Blackburn South
+3.0,2.0,House,4.0,"9 Victoria Avenue, Canterbury",6000000.0,Angie Gao,Canterbury
+2.0,2.0,Unit,3.0,"2/13 Lilac Street, Bentleigh East",1032500.0,Kosta Mesaritis,Bentleigh East
+2.0,2.0,Townhouse,3.0,"3/298 High Street Road, Mount Waverley",1785000.0,Shelly Zhang,Mount Waverley
+2.0,2.0,Townhouse,3.0,"4B Thompson Street, Clayton",830000.0,Michael Renzella,Clayton
+1.0,2.0,Apartment,2.0,"327/60 Autumn Terrace, Clayton South",455000.0,Vince Mirabella,Clayton South
+2.0,2.0,Townhouse,3.0,"1/14 Harcourt Street, Ashwood",1100000.0,Peter Daicos,Ashwood
+2.0,2.0,Apartment,2.0,"1401/36 Prospect Street, Box Hill",698000.0,Anthony Wong,Box Hill
+1.0,2.0,Townhouse,3.0,"2/71 Thames Street, Box Hill",815000.0,Nathan Li,Box Hill
+2.0,2.0,House,4.0,"33 Kingston Road, Langwarrin",2275000.0,Ryan King,Langwarrin
+1.0,2.0,Apartment,2.0,"103/154 Elgar Road, Box Hill South",504000.0,Christine Ting,Box Hill South
+2.0,3.0,Townhouse,4.0,"968B North Road, Bentleigh East",1785000.0,Eddy He,Bentleigh East
+2.0,2.0,House,3.0,"1C Bainbridge Avenue, Seaford",825000.0,Michelle Stephens,Seaford
+2.0,1.0,Unit,2.0,"1/26 Rae Street, Chadstone",650000.0,Tai Menahem,Chadstone
+3.0,2.0,House,5.0,"78 Through Road, Camberwell",2625000.0,Nini Tan,Camberwell
+2.0,4.0,House,4.0,"28A Arunta Crescent, Clarinda",1100000.0,Frank Scalise,Clarinda
+2.0,1.0,House,3.0,"1724 Dandenong Road, Clayton",2100000.0,Ethan He,Clayton
+2.0,2.0,House,3.0,"4 Rogan Court, Langwarrin",830000.0,Darren Eichenberger,Langwarrin
+1.0,1.0,Unit,2.0,"4 Southampton Drive, Langwarrin",620000.0,Darren Eichenberger,Langwarrin
+4.0,2.0,Townhouse,4.0,"9A Cecil Street, Bentleigh East",1640000.0,Elsa Zhang,Bentleigh East
+4.0,2.0,House,4.0,"6 Filbert Street, Bentleigh East",2550000.0,Sam Maley,Bentleigh East
+1.0,1.0,Apartment,2.0,"7/1219-1221 Riversdale Road, Box Hill South",340000.0,Angelina Xu,Box Hill South
+1.0,1.0,Unit,2.0,"6/237-239 Westall Road, Clayton South",630000.0,Jason Xi,Clayton South
+1.0,3.0,Townhouse,4.0,"3/25 Holroyd Street, Seaford",745000.0,Daniel Keleher,Seaford
+1.0,1.0,Apartment,2.0,"1403/9-11 Prospect Street, Box Hill",600000.0,Freeman Li 李,Box Hill
+2.0,1.0,House,3.0,"63 Patrick Street, Oakleigh East",1300000.0,Leigh Kelepouris,Oakleigh East
+4.0,4.0,House,5.0,"293 Elgar Road, Surrey Hills",2100000.0,Spring Chen,Surrey Hills
+1.0,2.0,Unit,3.0,"4A Madden Street, Seaford",669000.0,Jack Rickard,Seaford
+2.0,1.0,House,3.0,"9 Hadley Street, Seaford",675000.0,John Walsh,Seaford
+1.0,2.0,Apartment,2.0,"M-City 905/864 Blackburn Road, Clayton",590000.0,Jimmy Zhou,Clayton
+2.0,2.0,House,3.0,"39A Harbour Drive, Patterson Lakes",925000.0,JAKE SULLEY,Patterson Lakes
+1.0,4.0,Townhouse,4.0,"7/398 Elgar Road, Box Hill",1400000.0,Tony Che,Box Hill
+1.0,1.0,Apartment,2.0,"202/160 Union Road, Surrey Hills",660000.0,Adele Mirabella,Surrey Hills
+1.0,2.0,Apartment,2.0,"G07/50 Seymour Grove, Camberwell",790000.0,Brendan Cain,Camberwell
+1.0,1.0,Unit,3.0,"12/51-57 Gladesville Boulevard, Patterson Lakes",705000.0,Hamish Mitchell,Patterson Lakes
+2.0,2.0,Townhouse,3.0,"2, 5/311 Blackburn Road, Mount Waverley",769500.0,Mark,Mount Waverley
+2.0,2.0,Residential land,3.0,"4 Wilson Grove, Seaford",900000.0,Daniel Keleher,Seaford
+3.0,2.0,House,4.0,"4 Callander Street, Hughesdale",2100000.0,Andris Crawford,Hughesdale
+2.0,1.0,Apartment,1.0,"14/997 Dandenong Road, Malvern East",277500.0,Tom Grieve,Malvern East
+3.0,3.0,House,4.0,"27a Pembroke Street, Surrey Hills",3465000.0,Ripple Wu,Surrey Hills
+2.0,2.0,House,4.0,"32 East Road, Seaford",1100000.0,Chris Zhang,Seaford
+2.0,3.0,House,4.0,"18 Coombs Avenue, Oakleigh South",3.0,Michael Renzella,Oakleigh South
+2.0,2.0,House,3.0,"29 Kingston Street, Glen Iris",2200000.0,John Morrisby,Glen Iris
+2.0,1.0,House,1.0,"5 East Road, Seaford",714000.0,Dimitris Koptis,Seaford
+1.0,1.0,Villa,2.0,"7/3 High Road, Camberwell",735000.0,Sean Evans,Camberwell
+2.0,2.0,Townhouse,4.0,"1/31 Victoria Street, Box Hill",1330000.0,Jerry Lin,Box Hill
+1.0,2.0,House,4.0,"33 Welfare Parade, Glen Iris",2050000.0,Tai Menahem,Glen Iris
+1.0,2.0,Apartment,2.0,"10/3 Inner Harbour Drive, Patterson Lakes",720000.0,Justin Maher,Patterson Lakes
+2.0,3.0,House,5.0,"66 Oakpark Drive, Chadstone",1775000.0,Tai Menahem,Chadstone
+2.0,3.0,Townhouse,4.0,"28b Northam Road, Bentleigh East",1475000.0,Simon Pintado,Bentleigh East
+2.0,2.0,House,4.0,"80 Melington Drive, Lyndhurst",975000.0,Khaled Arabzadeh,Lyndhurst
+3.0,2.0,House,4.0,"6 Arthur Street, Surrey Hills",2450000.0,Kellie Liu,Surrey Hills
+2.0,2.0,Townhouse,3.0,"7 Pindari Crescent, Langwarrin",674500.0,Shane Donovan,Langwarrin
+2.0,2.0,House,3.0,"15 Faulkiner Street, Clayton",1200000.0,Jason Xi,Clayton
+2.0,2.0,House,4.0,"42 Brandon Street, Glen Iris",3395000.0,Jesse Matthews,Glen Iris
+2.0,1.0,Apartment,1.0,"4/219 Burke Road, Glen Iris",365000.0,Michael Rosano,Glen Iris
+4.0,2.0,House,4.0,"457 Clayton Road, Clayton South",1300000.0,Dimitri Damianos,Clayton South
+1.0,2.0,Apartment,2.0,"201/33 Harrow Street, Box Hill",450000.0,Graham Hicks,Box Hill
+2.0,5.0,House,5.0,"11 Nerissa Street, Glen Iris",3150000.0,Yili Ma,Glen Iris
+2.0,2.0,House,4.0,"36 Postregna Way, Skye",892500.0,Bryce Houston,Skye
+2.0,1.0,House,3.0,"60 Essex Road, Mount Waverley",865000.0,Tim Heavyside,Mount Waverley
+2.0,1.0,House,4.0,"7 Coane Street, Oakleigh East",1200000.0,Gareth Apswoude,Oakleigh East
+1.0,2.0,Apartment,2.0,"909/545 Station Street, Box Hill",650000.0,Rachel Cao,Box Hill
+1.0,2.0,Apartment,2.0,"102/10 Lomandra Drive, Clayton South",530000.0,James Tan,Clayton South
+1.0,2.0,Apartment,3.0,"47/5 Thompson Road, Patterson Lakes",560000.0,Lilly Clarke,Patterson Lakes
+2.0,1.0,Unit,3.0,"26/15 Peninsula Crescent, Langwarrin",630000.0,Darren Eichenberger,Langwarrin
+2.0,2.0,Apartment,3.0,"204/2 Gascoyne Street, Canterbury",2195000.0,Campbell Ward,Canterbury
+1.0,2.0,Apartment,2.0,"204/1009 Dandenong Road, Malvern East",552500.0,Mat Suckling,Malvern East
+1.0,1.0,Apartment,2.0,"10/1 Tooronga Road, Malvern East",555000.0,Jay Price,Malvern East
+1.0,1.0,Unit,3.0,"3/36 Paxton Street, Malvern East",1100000.0,Steve Burke,Malvern East
+4.0,2.0,House,3.0,"24 Tiller Lane, Patterson Lakes",915000.0,Danny O'Brien,Patterson Lakes
+2.0,1.0,House,3.0,"19 Cleary Court, Clayton South",975000.0,Michael Renzella,Clayton South
+2.0,2.0,Apartment,2.0,"27/117 McLeod Road, Patterson Lakes",692500.0,Genevieve Hill,Patterson Lakes
+1.0,2.0,Apartment,2.0,"224/25 Trent Street, Glen Iris",640000.0,Sarah Lam,Glen Iris
+2.0,2.0,House,4.0,"42 Brunel Street, Malvern East",1925000.0,Steve Burke,Malvern East
+2.0,2.0,House,3.0,"46 Lakeside Drive, Sandhurst",1575000.0,Michelle Stephens,Sandhurst
+4.0,2.0,House,4.0,"7 West Court, Camberwell",2200000.0,David Fileccia,Camberwell
+4.0,2.0,House,5.0,"7 Clifford Close, Ashburton",2900000.0,Joy Zhang,Ashburton
+1.0,2.0,Apartment,2.0,"1101,1401/34-36 Prospect Street, Box Hill",640000.0,Jenny Zhang,Box Hill
+3.0,2.0,House,4.0,"40 West Road, Langwarrin South",3097500.0,Alice Ormrod,Langwarrin South
+1.0,1.0,Unit,2.0,"3/29 Ashburn Grove, Ashburton",715000.0,Dario Casale,Ashburton
+1.0,2.0,Apartment,2.0,"210/1384 Dandenong Road, Hughesdale",460000.0,Gerry Wang,Hughesdale
+1.0,1.0,House,3.0,"73 Monterey Boulevard, Frankston North",723000.0,Tony Che,Frankston North
+1.0,1.0,Townhouse,2.0,"5a White Street, Bentleigh East",899000.0,Jack Liu,Bentleigh East
+2.0,4.0,Townhouse,4.0,"Address available on request, Clayton South",1150000.0,Thu Le,Clayton South
+1.0,1.0,Unit,2.0,"17/2-12 Temple Street, Ashwood",630000.0,Antony Woodley,Ashwood
+2.0,3.0,Apartment,3.0,"701/19-21 Poplar Street, Box Hill",1350000.0,John Zhang,Box Hill
+1.0,2.0,Apartment,2.0,"706/15 Irving Avenue, Box Hill",615000.0,Nick Tang,Box Hill
+1.0,2.0,Apartment,2.0,"121/801 Centre Road, Bentleigh East",480000.0,Jack Liu,Bentleigh East
+2.0,2.0,House,3.0,"707 Warrigal Road, Bentleigh East",945000.0,Daniel Paola,Bentleigh East
+1.0,2.0,House,3.0,"45 Through Road, Camberwell",1750000.0,Colby Maddocks,Camberwell
+1.0,1.0,Apartment,2.0,"3/997 Dandenong Road, Malvern East",450000.0,Ruth Roberts,Malvern East
+2.0,2.0,House,3.0,"108-110 Huntingdale Road, Mount Waverley",3375000.0,Peter Alamaras,Mount Waverley
+3.0,1.0,House,3.0,"30 Maysia Street, Canterbury",2800000.0,Sebastian Scanlon,Canterbury
+1.0,2.0,Apartment,2.0,"2808/828 Whitehorse Road, Box Hill",599000.0,Jee Chin,Box Hill
+2.0,1.0,House,3.0,"92 View Street, Clayton",1100000.0,Ethan He,Clayton
+2.0,2.0,Townhouse,3.0,"4/31 Colonel Street, Clayton",870000.0,Ethan He,Clayton
+4.0,2.0,Unit,3.0,"52 Potts Road, Langwarrin",675000.0,Darren Eichenberger,Langwarrin
+2.0,2.0,House,4.0,"21 Wodalla Place, Lyndhurst",729750.0,Colin Butler,Lyndhurst
+2.0,1.0,House,3.0,"28 Lancaster Street, Ashburton",1350000.0,David Macmillan,Ashburton
+2.0,1.0,House,3.0,"28 Greendale Road, Bentleigh East",1150000.0,Ryan Counihan,Bentleigh East
+1.0,2.0,Apartment,2.0,"Address available on request, Malvern East",530000.0,Andy Su,Malvern East
+4.0,2.0,House,4.0,"15 - 15A Fordham Avenue, Camberwell",2780000.0,Toni El-Helou,Camberwell
+3.0,2.0,House,3.0,"2 Airlie Court, Langwarrin",890000.0,Callum MacPherson,Langwarrin
+1.0,1.0,Unit,3.0,"2/12 Rubens Grove, Canterbury",1200000.0,Adele Mirabella,Canterbury
+2.0,3.0,Townhouse,5.0,"3/60 Kionga Street, Clayton",1050000.0,Ethan He,Clayton
+2.0,1.0,Townhouse,3.0,"1/3 Sydney Street, Clayton South",825000.0,Ethan He,Clayton South
+1.0,2.0,Apartment,2.0,"103/18 Lomandra Drive, Clayton South",525000.0,Ethan He,Clayton South
+2.0,1.0,Unit,2.0,"3/51 Milton Avenue, Clayton South",575000.0,Max Mai,Clayton South
+2.0,1.0,Apartment,1.0,"21/5 Archibald Street, Box Hill",180000.0,Nick Tang,Box Hill
+1.0,2.0,Townhouse,3.0,"8/44 McCormicks Road, Skye",589500.0,David Carroll,Skye
+1.0,1.0,Unit,3.0,"3/7-9 Oakleigh Street, Oakleigh East",640000.0,Elroy Malowney,Oakleigh East
+1.0,1.0,Townhouse,2.0,"7/1349 Toorak Road, Camberwell",720000.0,Neil Zheng,Camberwell
+2.0,4.0,House,5.0,"2 Gilmour Road, Camberwell",2380000.0,Isabella Lu,Camberwell
+2.0,2.0,House,3.0,"21 Carinya Road, Bentleigh East",1425000.0,Chris Hassall,Bentleigh East
+3.0,2.0,Townhouse,4.0,"326a Chesterville Road, Bentleigh East",1450000.0,Robert De Freitas,Bentleigh East
+2.0,3.0,House,4.0,"25 Perth Street, Blackburn South",2400000.0,Juliette Zhou,Blackburn South
+1.0,1.0,Apartment,1.0,"3/50 Poath Road, Hughesdale",365000.0,Eddie Fu,Hughesdale
+2.0,2.0,Apartment,3.0,"103/890 Toorak Road, Camberwell",1499500.0,Brad Cooper,Camberwell
+2.0,3.0,Townhouse,4.0,"2/37 Glencairn Avenue, Camberwell",2300000.0,Brian Chen,Camberwell
+1.0,1.0,House,3.0,"8 Pickford Street, Burwood East",900000.0,Tynan Carr,Burwood East
+2.0,2.0,House,4.0,"7 Lamada Street, Lyndhurst",1048500.0,Sushant Gupta,Lyndhurst
+1.0,1.0,Unit,2.0,"1/5 Derry Street, Bentleigh East",650000.0,Olivia Petrou,Bentleigh East
+2.0,3.0,Townhouse,4.0,"1D Martin Street, Seaford",860000.0,Shane O'Sughrue,Seaford
+2.0,2.0,Townhouse,4.0,"10/17 Forster Road, Mount Waverley",980000.0,Adrian Stefanetti,Mount Waverley
+3.0,3.0,Townhouse,4.0,"1/71 Wattle Valley Road, Canterbury",2119500.0,Peter Vigano,Canterbury
+1.0,1.0,Unit,2.0,"2/180-181 Nepean Highway, Seaford",622500.0,Dean Bozunovic,Seaford
+2.0,2.0,Residential land,3.0,"2 Lorna Street, Seaford",945000.0,Thomas Larkin,Seaford
+2.0,2.0,House,4.0,"3 Kingsford Smith Court, Sandhurst",1400000.0,Brad Ryan,Sandhurst
+2.0,2.0,House,4.0,"3 Seaton Court, Mount Waverley",1530000.0,Zack Song,Mount Waverley
+2.0,3.0,Townhouse,4.0,"2/34 Donna Buang Street, Camberwell",2200000.0,Emma Yu,Camberwell
+1.0,1.0,Townhouse,2.0,"46/29 Browns Road, Clayton",650000.0,Ethan He,Clayton
+1.0,1.0,Apartment,2.0,"15/1324-1328 Centre Road, Clayton South",395000.0,Peter Laspas,Clayton South
+2.0,2.0,House,6.0,"71-73 Beddoe Avenue, Clayton",4200000.0,Ethan He,Clayton
+1.0,2.0,Apartment,2.0,"406,1102,1307/34-36 Prospect Street, Box Hill",545000.0,Jenny Zhang,Box Hill
+1.0,2.0,House,3.0,"18 Schulz Street, Bentleigh East",1450000.0,Alex Spanidis,Bentleigh East
+1.0,1.0,Unit,2.0,"3/88 Albion Road, Box Hill",735000.0,Nicole Lismore,Box Hill
+2.0,2.0,House,4.0,"7B Cecil Street, Bentleigh East",1750000.0,Frank Scalise,Bentleigh East
+2.0,4.0,Townhouse,4.0,"46 Sycamore Street, Malvern East",1775000.0,Jerry Lin,Malvern East
+2.0,2.0,House,5.0,"20 Sandarra Boulevard, Sandhurst",1149000.0,Mehdi Fayazi,Sandhurst
+1.0,1.0,House,4.0,"2 Beryl Avenue, Oakleigh South",1300000.0,Dimitri Damianos,Oakleigh South
+1.0,2.0,Apartment,2.0,"410/347 Camberwell Road, Camberwell",675000.0,Nick Roper,Camberwell
+1.0,1.0,Apartment,1.0,"2/18 Ashted Road, Box Hill",307500.0,Gavin Hoo,Box Hill
+1.0,1.0,House,3.0,"55 Rosebank Avenue, Clayton South",1680000.0,Theresa Huynh,Clayton South
+3.0,2.0,Townhouse,4.0,"13b Goodrich Street, Bentleigh East",1700000.0,Melissa Hetherington,Bentleigh East
+3.0,2.0,House,3.0,"691 South Road, Bentleigh East",1195000.0,Melissa Hetherington,Bentleigh East
+2.0,4.0,House,8.0,"16 Browns Court, Clayton",1150000.0,Peter Liu,Clayton
+1.0,2.0,Apartment,2.0,"G06/28-34 Boisdale Street, Surrey Hills",870000.0,Ross Stryker,Surrey Hills
+1.0,1.0,Unit,2.0,"3/297 Nepean Highway, Seaford",495000.0,Daniel Keleher,Seaford
+1.0,2.0,Townhouse,3.0,"25 Jade Circuit, Burwood East",815000.0,Nalaka Weerakoon,Burwood East
+1.0,1.0,Apartment,1.0,"604/881 Dandenong Road, Malvern East",340000.0,May Wang,Malvern East
+2.0,2.0,House,3.0,"218 McLeod Road, Patterson Lakes",1800000.0,Hamish Mitchell,Patterson Lakes
+2.0,2.0,Townhouse,3.0,"1/15 Somerset Road, Glen Iris",1670000.0,Leon Li,Glen Iris
+2.0,1.0,Unit,3.0,"2/18 Manoon Road, Clayton South",815000.0,Michael Renzella,Clayton South
+2.0,2.0,House,5.0,"7 Red Oak Terrace, Lyndhurst",1050000.0,Abraham Namdar,Lyndhurst
+2.0,2.0,House,4.0,"31 Lyndhurst Boulevard, Lyndhurst",1150000.0,Zeina Rayes,Lyndhurst
+2.0,3.0,House,4.0,"5a Catalina Avenue, Ashburton",1900000.0,Max Hedley,Ashburton
+2.0,2.0,House,4.0,"3 Opal Court, Bentleigh East",1450000.0,Ruth Roberts,Bentleigh East
+2.0,3.0,Townhouse,4.0,"1, 2 & 3/32 Victoria Street, Box Hill",2050000.0,Tori Liu,Box Hill
+2.0,3.0,Townhouse,4.0,"8/2-4 Doynton Parade, Mount Waverley",1.0,Eric Li,Mount Waverley
+1.0,3.0,Townhouse,3.0,"8/58 Nepean Highway, Seaford",834000.0,Austin Phillips,Seaford
+3.0,2.0,House,5.0,"24 Energy Drive, Lyndhurst",1349000.0,Hardeep Singh,Lyndhurst
+2.0,3.0,Townhouse,4.0,"19/5 Hay street, Box Hill South",840000.0,Mary Wang,Box Hill South
+1.0,1.0,Unit,1.0,"1/4 Kent Street, Glen Iris",395000.0,Flynn Curry,Glen Iris
+2.0,1.0,House,3.0,"7 Larool Crescent, Seaford",930000.0,Michelle Stephens,Seaford
+1.0,2.0,Apartment,2.0,"910/3 Young Street, Box Hill",595000.0,Helen Chen,Box Hill
+4.0,5.0,House,5.0,"1695 Dandenong Road, Oakleigh East",2025000.0,Charlie Darlow,Oakleigh East
+2.0,2.0,Townhouse,4.0,"21 Crick Walk, Burwood East",1375000.0,Connor Sun,Burwood East
+2.0,3.0,House,3.0,"4 Robinson Road, Surrey Hills",1350000.0,Jeremy Desmier,Surrey Hills
+2.0,2.0,Townhouse,3.0,"18a Adrian Street, Bentleigh East",1250000.0,Robert De Freitas,Bentleigh East
+2.0,2.0,House,4.0,"4 Verona Street, Box Hill South",2150000.0,Spring Chen,Box Hill South
+4.0,2.0,House,5.0,"40 Castlewood Street, Bentleigh East",3000000.0,Kosta Mesaritis,Bentleigh East
+1.0,1.0,Apartment,1.0,"G01/10-12 High Street, Glen Iris",452500.0,Cheryl Gravina,Glen Iris
+1.0,1.0,Unit,2.0,"1/10 Carool Road, Ashburton",925000.0,Tai Menahem,Ashburton
+2.0,1.0,Unit,2.0,"13/9 Warrenwood Place, Langwarrin",625000.0,Darren Eichenberger,Langwarrin
+1.0,2.0,House,4.0,"17 Mantello Street, Lyndhurst",790000.0,Mohan Singh,Lyndhurst
+2.0,3.0,House,5.0,"33 Grant Street, Malvern East",7500000.0,Craig Patterson,Malvern East
+3.0,2.0,House,4.0,"6 The Ridge, Canterbury",5100000.0,Mike Beardsley,Canterbury
+4.0,2.0,House,4.0,"22 Schooner Bay Drive, Patterson Lakes",2180000.0,Justin Maher,Patterson Lakes
+1.0,1.0,Apartment,2.0,"6/1422 Centre Road, Clayton South",450000.0,Coco Ma,Clayton South
+1.0,1.0,Apartment,2.0,"3/1219-1221 Riversdale Road, Box Hill South",315000.0,Michael Ganavas,Box Hill South
+2.0,1.0,Apartment,2.0,"3/10-12 Repton Road, Malvern East",695000.0,Clare Adams,Malvern East
+1.0,1.0,Apartment,2.0,"505/9 Foundation Boulevard, Burwood East",595000.0,Anthony Molinaro,Burwood East
+4.0,2.0,House,5.0,"12 Eley Road, Burwood East",2100000.0,David Sun,Burwood East
+1.0,1.0,Apartment,1.0,"104/525 Whitehorse Road, Surrey Hills",418500.0,Kul Pathania,Surrey Hills
+2.0,2.0,House,4.0,"30 Emo Road, Malvern East",2675000.0,Daniel Wheeler,Malvern East
+4.0,3.0,Townhouse,4.0,"8b Latham Street, Bentleigh East",1720000.0,Chris Hassall,Bentleigh East
+3.0,2.0,Townhouse,4.0,"1-4/18 McCulloch Avenue, Seaford",1.0,Kaushik Vora,Seaford
+2.0,2.0,House,4.0,"4/445 Camberwell Road, Camberwell",1350000.0,Alex Broque,Camberwell
+1.0,1.0,Apartment,2.0,"11/50 Poath Road, Hughesdale",465000.0,Clare Adams,Hughesdale
+1.0,1.0,Apartment,3.0,"1605/828 Whitehorse Road, Box Hill",630000.0,Jenny Zhang,Box Hill
+3.0,2.0,House,4.0,"26 Larch Crescent, Mount Waverley",2550000.0,Joy Zhang,Mount Waverley
+3.0,2.0,House,4.0,"1 Lee Ann Street, Blackburn South",1.0,Michael Steenhuis,Blackburn South
+2.0,2.0,House,4.0,"79 Manning Road, Malvern East",3795000.0,Rae Tomlinson,Malvern East
+1.0,2.0,Apartment,2.0,"G01/115 Burwood Highway, Burwood East",470000.0,Anthony Molinaro,Burwood East
+2.0,2.0,Residential land,3.0,"22A Long Street, Langwarrin",294000.0,Ben Quatrini,Langwarrin
+1.0,1.0,Unit,2.0,"2/80 Harlington Street, Clayton",770000.0,Ethan He,Clayton
+1.0,2.0,Townhouse,3.0,"2 & 3/19 Rotherwood Drive, Malvern East",1150000.0,Demetrius Georgiou,Malvern East
+2.0,2.0,House,4.0,"27 Nagle Drive, Sandhurst",1775000.0,Michelle Stephens,Sandhurst
+1.0,1.0,Apartment,2.0,"G06/25 Trent Street, Glen Iris",630000.0,Martin Giles,Glen Iris
+1.0,1.0,Apartment,1.0,"G08/6 Clarkson Court, Clayton",350000.0,Michael Wu,Clayton
+1.0,2.0,Apartment,2.0,"406/12 Nelson Road, Box Hill",725000.0,Kelly Sun,Box Hill
+2.0,3.0,House,4.0,"2 Lomond Street, Glen Iris",2600000.0,Chris Burne,Glen Iris
+2.0,1.0,Apartment,1.0,"490 Elgar Road, Box Hill",130000.0,Alistair Wu,Box Hill
+1.0,2.0,Apartment,2.0,"1211/3 Young Street, Box Hill",605000.0,Tony Kwan,Box Hill
+2.0,1.0,Townhouse,2.0,"7/31-33 Tully Road, Clarinda",730000.0,Peter Laspas,Clarinda
+1.0,1.0,Apartment,1.0,"12/315-319 Huntingdale Road, Chadstone",285500.0,Howie Simpson,Chadstone
+1.0,1.0,Unit,2.0,"3/26 Cornell Street, Camberwell",749000.0,Wendy Zhou 周中文,Camberwell
+2.0,2.0,Apartment,3.0,"G4/1399 Dandenong Road, Malvern East",1150000.0,Peter Gray,Malvern East
+2.0,2.0,House,4.0,"2 Freshwater Boulevard, Lyndhurst",1550000.0,Aarryn Cooper,Lyndhurst
+2.0,3.0,Townhouse,4.0,"4/223 Burke Road, Glen Iris",2350000.0,Sara Pedram,Glen Iris
+1.0,2.0,House,3.0,"298 Wattletree Road, Malvern East",2400000.0,Daniel Wheeler,Malvern East
+2.0,2.0,House,4.0,"264 Gladesville Boulevard, Patterson Lakes",3788888.0,Danny O'Brien,Patterson Lakes
+1.0,1.0,Townhouse,2.0,"28/1656 Dandenong Road, Oakleigh East",430000.0,William Wang,Oakleigh East
+2.0,3.0,Apartment,5.0,"lv29/36 Prospect Street, Box Hill",3000000.0,Paul Wu,Box Hill
+2.0,1.0,Apartment,1.0,"1025/850 Whitehorse Road, Box Hill",350000.0,Stan Song,Box Hill
+2.0,2.0,Apartment,3.0,"G03/70 Ferntree Gully Road, Oakleigh East",680000.0,Elroy Malowney,Oakleigh East
+2.0,2.0,Apartment,3.0,"1008/545 Station Street, Box Hill",855000.0,Darryn Hung,Box Hill
+1.0,1.0,Unit,2.0,"17/565 Camberwell Road, Camberwell",525000.0,Tom Lehpamer,Camberwell
+2.0,3.0,Townhouse,4.0,"1/3 Lorna Street, Seaford",822000.0,Ekansh Kohli,Seaford
+1.0,1.0,Townhouse,3.0,"5/602 Waverley Road, Malvern East",929000.0,David Ferro,Malvern East
+2.0,2.0,Townhouse,4.0,"1B Parkmore Road, Bentleigh East",1950000.0,Chris Hassall,Bentleigh East
+1.0,1.0,Unit,2.0,"12/5 Travellyn Court, Blackburn South",650000.0,Tabinda Naaz,Blackburn South
+2.0,2.0,House,3.0,"1/62 Armstrongs Road, Seaford",840000.0,Michelle Stephens,Seaford
+3.0,2.0,Townhouse,4.0,"22a Paloma Street, Bentleigh East",1800000.0,Leo Yu,Bentleigh East
+8.0,7.0,House,5.0,"85 Mont Albert Road, Canterbury",8480000.0,Andrew Gibbons,Canterbury
+2.0,2.0,House,4.0,"52 Sustain Circuit, Lyndhurst",934500.0,Hardeep Singh,Lyndhurst
+2.0,1.0,Apartment,1.0,"202/6 John Street, Box Hill",210000.0,Victor Verma,Box Hill
+2.0,3.0,Townhouse,4.0,"2/30 Aisbett Avenue, Camberwell",1690000.0,Leo Xu,Camberwell
+2.0,3.0,Apartment,4.0,"2807/3 Young Street, Box Hill",3700000.0,Thai Tan,Box Hill
+2.0,2.0,House,4.0,"8 Clarence Court, Sandhurst",960000.0,Michelle Stephens,Sandhurst
+2.0,1.0,House,3.0,"16 Colac Court, Patterson Lakes",875000.0,Michael Marziale,Patterson Lakes
+2.0,3.0,Townhouse,4.0,"2/41 Pembroke Street, Surrey Hills",1450000.0,Spring Chen,Surrey Hills
+2.0,3.0,Townhouse,4.0,"73B Moylan Street, Bentleigh East",2100000.0,Sardeep Singh,Bentleigh East
+2.0,2.0,Townhouse,4.0,"1/7 Larman Street, Bentleigh East",1450000.0,Sardeep Singh,Bentleigh East
+2.0,3.0,Townhouse,4.0,"2/112 Warrigal Road, Camberwell",1450000.0,Leo Bi,Camberwell
+2.0,2.0,Apartment,2.0,"7/3 Hay Street, Box Hill South",645000.0,Nima Goharpey,Box Hill South
+1.0,1.0,House,3.0,"15-17 Koonawarra Street, Clayton",2700000.0,Jason Xi,Clayton
+2.0,1.0,House,3.0,"50 Cleary Court, Clayton South",850000.0,Ethan He,Clayton South
+2.0,2.0,House,3.0,"7 Sefton Place, Camberwell",4095000.0,Annabelle Feng,Camberwell
+1.0,2.0,House,3.0,"37 Wingan Avenue, Camberwell",1925000.0,Kenneth Kong,Camberwell
+2.0,2.0,House,5.0,"149 Manning Road, Malvern East",2750000.0,Dean Gilbert,Malvern East
+1.0,1.0,Townhouse,1.0,"2/12 Oxford Street, Box Hill",365000.0,Tony Kwan,Box Hill
+1.0,2.0,Apartment,2.0,"2303/11 Prospect Street, Box Hill",650000.0,Jordan Liu,Box Hill
+1.0,2.0,Unit,2.0,"UNIT 4 /2  JOHN STREET, Malvern East",620000.0,Lushan Dons,Malvern East
+1.0,1.0,Unit,2.0,"8/80 Potts Road, Langwarrin",599000.0,Darren Eichenberger,Langwarrin
+2.0,2.0,Apartment,2.0,"11/801 Centre Road, Bentleigh East",595000.0,Kosta Mesaritis,Bentleigh East
+2.0,2.0,Apartment,3.0,"203/439 Camberwell Road, Camberwell",1250000.0,Khom Falla,Camberwell
+1.0,2.0,Apartment,2.0,"102/190 Bignell Rd, Bentleigh East",435000.0,Timothy Lynch,Bentleigh East
+1.0,2.0,Apartment,2.0,"G7/1631-1637 Malvern Road, Glen Iris",709000.0,Dennis Shi,Glen Iris
+2.0,1.0,Townhouse,3.0,"3/1 Churchill Avenue, Chadstone",865000.0,Tai Menahem,Chadstone
+4.0,4.0,Acreage,6.0,"135 Barretts Road, Langwarrin South",1995000.0,Karen Day,Langwarrin South
+2.0,1.0,House,3.0,"9 Dallas Avenue, Hughesdale",1475000.0,Jonathon Eaves,Hughesdale
+1.0,2.0,Apartment,2.0,"2709/3 Young Street, Box Hill",665000.0,Bella Cheung,Box Hill
+1.0,2.0,Unit,3.0,"4/14-16 Legon Road, Oakleigh South",812500.0,Max Fong,Oakleigh South
+2.0,1.0,House,3.0,"66 Kananook Avenue, Seaford",990000.0,Nataliya Koropets,Seaford
+1.0,2.0,Apartment,2.0,"15 Irving Avenue, Box Hill",525000.0,Aeon Capital Sales Executive,Box Hill
+3.0,2.0,House,4.0,"15 Suffolk Road, Surrey Hills",2500000.0,Ross Stryker,Surrey Hills
+1.0,1.0,Apartment,1.0,"805/770A Toorak Road, Glen Iris",420000.0,Nick Roper,Glen Iris
+2.0,4.0,House,4.0,"1/298 High Street Road, Mount Waverley",2000000.0,Chris Koulloupas,Mount Waverley
+2.0,3.0,House,5.0,"2 Quarterdeck Road, Sandhurst",1900000.0,Claudine Chan,Sandhurst
+3.0,2.0,House,6.0,"275 Waverley Road, Malvern East",4600000.0,Tony Kwan,Malvern East
+2.0,1.0,Apartment,1.0,"1 BEDROOM/17 Poplar Street, Box Hill",285000.0,Canwealth Prestige,Box Hill
+2.0,2.0,Apartment,3.0,"G03/221 Burke Road, Glen Iris",1225000.0,Steve Burke,Glen Iris
+7.0,1.0,House,3.0,"11 Raymond Street, Ashwood",1495000.0,Mario Butera,Ashwood
+2.0,3.0,Apartment,3.0,"103/42 Wills Street, Glen Iris",1440000.0,Jarrod Farey,Glen Iris
+1.0,1.0,Apartment,2.0,"3/972 Riversdale Road, Surrey Hills",597500.0,Tim Heavyside,Surrey Hills
+2.0,2.0,Apartment,3.0,"101/4 Kingston Street, Malvern East",1680000.0,Will Bennison,Malvern East
+2.0,2.0,House,4.0,"8 Splash Way, Lyndhurst",865000.0,Khaled Arabzadeh,Lyndhurst
+2.0,2.0,Apartment,3.0,"2807/828 Whitehorse Road, Box Hill",900000.0,Jenny Zhang,Box Hill
+2.0,3.0,House,4.0,"6 Duke Street, Ashburton",2825000.0,Jesse Matthews,Ashburton
+2.0,2.0,House,5.0,"17 Sherwood Street, Glen Iris",2800000.0,Ash Howarth,Glen Iris
+2.0,1.0,House,4.0,"31 Rothesay Avenue, Malvern East",2200000.0,Jason Brinkworth,Malvern East
+2.0,1.0,Apartment,1.0,"442 & 444/484 Elgar Road, Box Hill",150000.0,Selvan Kanniappan,Box Hill
+2.0,2.0,Townhouse,2.0,"11/1810 Malvern Road, Malvern East",755000.0,Anthony Lu,Malvern East
+6.0,1.0,House,3.0,"30-32 Wordsworth Avenue, Clayton South",2700000.0,Ethan He,Clayton South
+2.0,1.0,Apartment,1.0,"110/8 Bruce Street, Box Hill",126000.0,Joo Ming Lim,Box Hill
+2.0,2.0,Apartment,2.0,"1402/545 Station Street, Box Hill",512500.0,Max Pang,Box Hill
+3.0,2.0,Townhouse,3.0,"22a Pollina Street, Bentleigh East",1599000.0,Claude Mery,Bentleigh East
+2.0,1.0,House,3.0,"56 Lindisfarne Drive, Burwood East",1200000.0,Winston Wei,Burwood East
+1.0,2.0,Apartment,2.0,"305/869 Dandenong Road, Malvern East",685000.0,Simon Polinelli,Malvern East
+1.0,1.0,Apartment,2.0,"3/66 Wattle Valley Road, Canterbury",635000.0,Gail Logan,Canterbury
+2.0,2.0,Unit,3.0,"4/27 Austin Road, Seaford",840000.0,William Murnane,Seaford
+1.0,2.0,House,3.0,"40B Cadles Road, Carrum Downs",705000.0,Lalifa Leona,Carrum Downs
+1.0,2.0,Apartment,2.0,"G01/16 Dalgety Street, Oakleigh",525000.0,Jonathon Eaves,Oakleigh
+1.0,1.0,Apartment,1.0,"203/83-85 Drummond Street, Oakleigh",378000.0,Alice Phuong,Oakleigh
+3.0,3.0,Townhouse,5.0,"2/24 Montpellier Road, Burwood",1260000.0,Kenneth Kong,Burwood
+2.0,2.0,Residential land,3.0,"101 Greenwood Drive, Carrum Downs",340000.0,Bryce Houston,Carrum Downs
+4.0,3.0,House,4.0,"98 Atkinson Street, Oakleigh",3075000.0,Chris Karantzas,Oakleigh
+2.0,2.0,Townhouse,3.0,"4/15 Edwards Street, Burwood",1250000.0,Andy Zeng,Burwood
+1.0,2.0,Apartment,2.0,"310/2 Dalgety Street, Oakleigh",545000.0,Andy Su,Oakleigh
+2.0,2.0,Apartment,3.0,"607/6 Dalgety Street, Oakleigh",720000.0,Andy Su,Oakleigh
+2.0,2.0,House,3.0,"15 Tania Court, Carrum Downs",780000.0,Michelle Stephens,Carrum Downs
+2.0,2.0,Apartment,3.0,"106/35-41 Dalgety Street, Oakleigh",760000.0,Elroy Malowney,Oakleigh
+2.0,2.0,House,3.0,"28 Clifton Park Drive, Carrum Downs",775000.0,Georgia Ryan,Carrum Downs
+2.0,2.0,Townhouse,3.0,"1/427 Warrigal Road, Burwood",890000.0,Hans Liu,Burwood
+1.0,1.0,Unit,2.0,"1/14-16 Somers Street, Burwood",735000.0,Brendan Cain,Burwood
+1.0,1.0,Unit,2.0,"14/13 Logie Street, Oakleigh",425000.0,David Stewart,Oakleigh
+1.0,1.0,Apartment,2.0,"103/415 Highbury Road, Burwood",485000.0,Yubee Wu,Burwood
+2.0,2.0,Apartment,3.0,"301/47 McIntyre Street, Burwood",1050000.0,Agent: Lawrence Yan,Burwood
+1.0,2.0,Apartment,2.0,"104/47 McIntyre Street, Burwood",815000.0,Agent: Lawrence Yan,Burwood
+2.0,2.0,Residential land,3.0,"37 Mccormicks Road, Carrum Downs",1725000.0,Bryce Houston,Carrum Downs
+1.0,1.0,Apartment,2.0,"212/8 Yarra Bing Crescent, Burwood",432500.0,Janssen Xiang,Burwood
+1.0,1.0,Apartment,1.0,"B103A/399 Burwood Highway, Burwood",309000.0,Larry Zhou,Burwood
+2.0,2.0,Townhouse,3.0,"3 Botany Drive, Carrum Downs",660000.0,Michelle Stephens,Carrum Downs
+1.0,1.0,Apartment,2.0,"205/373-377 Burwood Highway, Burwood",430000.0,YuanYuan Chen,Burwood
+1.0,1.0,Apartment,1.0,"2/415 Highbury Road, Burwood",375000.0,Adrian Goegan,Burwood
+1.0,1.0,House,2.0,"1/9 Jericho Court, Carrum Downs",435000.0,Shane Donovan,Carrum Downs
+1.0,1.0,Apartment,2.0,"115/8 Yarra Bing Crescent, Burwood",500000.0,Mike Muncey,Burwood
+2.0,2.0,Unit,3.0,"1/48 Broderick Road, Carrum Downs",622500.0,Ben Quatrini,Carrum Downs
+1.0,2.0,Apartment,2.0,"105/2 Dalgety Street, Oakleigh",725000.0,Susanna Piao,Oakleigh
+1.0,2.0,Apartment,2.0,"G03B/57 Middleborough Road, Burwood",472500.0,Tim Chan,Burwood
+2.0,3.0,Townhouse,3.0,"19 Autumn Crescent, Carrum Downs",700000.0,Kai Faiyaz,Carrum Downs
+1.0,1.0,Apartment,2.0,"401/2 Dalgety Street, Oakleigh",470000.0,Eddy He,Oakleigh
+3.0,2.0,House,4.0,"27 Fulmar Street, Carrum Downs",920000.0,Michelle Stephens,Carrum Downs
+1.0,2.0,Apartment,2.0,"3/21 Grnja Way, Carrum Downs",450000.0,John Lewis,Carrum Downs
+1.0,1.0,Apartment,2.0,"112/6 Dalgety Street, Oakleigh",525000.0,Jonathon Eaves,Oakleigh
+2.0,2.0,House,3.0,"23 Ferntree Gully Road, Oakleigh",1050000.0,Frank Scalise,Oakleigh
+1.0,2.0,Apartment,2.0,"305/310 Burwood Highway, Burwood",430000.0,Fio Gao,Burwood
+2.0,2.0,Townhouse,4.0,"4/2 Stamford Road, Oakleigh",1090000.0,Peter Gigis,Oakleigh
+2.0,3.0,Townhouse,3.0,"6/20-22 Hughes Street, Burwood",785000.0,Hans Liu,Burwood
+2.0,2.0,House,4.0,"46 Montpellier Road, Burwood",1470000.0,Neil Zheng,Burwood
+2.0,2.0,Unit,3.0,"8 Mercury Court, Carrum Downs",664500.0,Aarryn Cooper,Carrum Downs
+2.0,3.0,House,5.0,"22 Heath Avenue, Oakleigh",1940000.0,Charlie Darlow,Oakleigh
+1.0,2.0,Unit,2.0,"2/11 Grnja Way, Carrum Downs",452500.0,Damien Pusch,Carrum Downs
+3.0,1.0,House,4.0,"1165 North Road, Oakleigh",1410000.0,Daniel Logvinov,Oakleigh
+1.0,2.0,Apartment,2.0,"501/83-85 Drummond Street, Oakleigh",510000.0,Nancy Jia,Oakleigh
+2.0,1.0,Apartment,1.0,"8/388 Burwood Highway, Burwood",135000.0,Ya Fei Dong,Burwood
+2.0,3.0,Townhouse,4.0,"2B Inverness Avenue, Burwood",1725000.0,Spring Chen,Burwood
+2.0,1.0,House,3.0,"5 Clyde Street, Oakleigh",1425000.0,Chris Karantzas,Oakleigh
+2.0,2.0,House,4.0,"23 Gadd Street, Oakleigh",1875000.0,Charlie Darlow,Oakleigh
+2.0,2.0,Townhouse,3.0,"2/1478 Dandenong Road, Oakleigh",997500.0,Charlie Darlow,Oakleigh
+2.0,2.0,House,4.0,"12 Allen Street, Oakleigh",1550000.0,Gareth Apswoude,Oakleigh
+1.0,2.0,Townhouse,2.0,"1/6 Dalgety Street, Oakleigh",750000.0,Ming Chen,Oakleigh
+1.0,1.0,Unit,2.0,"4/19 Lats Avenue, Carrum Downs",514500.0,Matt Dewan,Carrum Downs
+2.0,2.0,House,3.0,"27 Pagett Road, Carrum Downs",820000.0,Bryce Houston,Carrum Downs
+4.0,2.0,House,5.0,"10 Wilson Street, Oakleigh",1750000.0,Gareth Apswoude,Oakleigh
+2.0,4.0,Townhouse,4.0,"52 Hillview Drive, Carrum Downs",765000.0,Vamsi Bala,Carrum Downs
+2.0,2.0,Townhouse,3.0,"12/6 Willgilson Court, Oakleigh",860000.0,Kenneth Kong,Oakleigh
+2.0,2.0,House,3.0,"26 Heath Avenue, Oakleigh",1525000.0,Gareth Apswoude,Oakleigh
+1.0,2.0,Apartment,2.0,"403/2 Dalgety Street, Oakleigh",575000.0,Faye Yang,Oakleigh
+2.0,4.0,Townhouse,6.0,"3/19 Hughes Street, Burwood",880000.0,Ellie Gong,Burwood
+2.0,2.0,House,3.0,"505 Frankston - Dandenong Road, Carrum Downs",807500.0,MANPREET SANDHU,Carrum Downs
+3.0,3.0,House,5.0,"19 Winifred Street, Oakleigh",1200000.0,George Midas,Oakleigh
+2.0,2.0,Townhouse,3.0,"4/8 Willgilson Court, Oakleigh",1037500.0,Charlie Darlow,Oakleigh
+2.0,2.0,Townhouse,3.0,"7/37  Clifton Grove, Carrum Downs",695000.0,Symone Gatt,Carrum Downs
+2.0,2.0,House,3.0,"3A Andrews Street, Burwood",1350000.0,Jing Zou,Burwood
+2.0,2.0,Townhouse,4.0,"2/19 John Street, Oakleigh",1150000.0,Hendrik Giam,Oakleigh
+1.0,1.0,House,3.0,"7A Caloola Avenue, Oakleigh",1398000.0,Gareth Apswoude,Oakleigh
+1.0,2.0,Townhouse,3.0,"2/12 Leroux Street, Oakleigh",1005000.0,George Korderas,Oakleigh
+1.0,1.0,Unit,3.0,"6/1 Brunnings Road, Carrum Downs",570000.0,Brad Ryan,Carrum Downs
+1.0,2.0,House,3.0,"29 Murray Drive, Burwood",1350000.0,Nicole Lismore,Burwood
+1.0,2.0,Townhouse,2.0,"4/6 Dalgety Street, Oakleigh",720000.0,Faye Yang,Oakleigh
+1.0,2.0,Apartment,2.0,"316/2 Dalgety Street, Oakleigh",590000.0,Faye Yang,Oakleigh
+1.0,1.0,Apartment,1.0,"102/89 Atherton Road, Oakleigh",440000.0,Gareth Apswoude,Oakleigh
+2.0,2.0,Unit,3.0,"12/104 Broderick Road, Carrum Downs",622500.0,Ben Quatrini,Carrum Downs
+1.0,2.0,Apartment,2.0,"Oros 6120/2-6 Dalgety Street, Oakleigh",605000.0,Jimmy Zhou,Oakleigh
+2.0,2.0,Townhouse,3.0,"9/4 Wilton Way, Carrum Downs",699999.0,Ian Harris,Carrum Downs
+4.0,4.0,House,7.0,"210-212 Burwood Highway, Burwood",3500000.0,Jenny Gao,Burwood
+2.0,2.0,Townhouse,3.0,"3/53 Elgar Road, Burwood",892500.0,Tony Kwan,Burwood
+1.0,2.0,Apartment,2.0,"201/16 Dalgety Street, Oakleigh",605000.0,Sean Cho,Oakleigh
+1.0,2.0,Apartment,2.0,"304/1525 Dandenong Road, Oakleigh",435000.0,James Tan,Oakleigh
+1.0,1.0,Unit,2.0,"7/16   Dalgety St, Oakleigh",545000.0,Lushan Dons,Oakleigh
+4.0,2.0,House,5.0,"55 Somers Street, Burwood",3850000.0,Jessica Chin,Burwood
+2.0,1.0,Unit,3.0,"1/389 Burwood Highway, Burwood",830000.0,Yang Jiang,Burwood
+1.0,1.0,Unit,2.0,"5/11 Renown Street, Burwood",735000.0,Mannie Psarakis,Burwood
+1.0,1.0,Apartment,2.0,"107/373-377 Burwood Highway, Burwood",450000.0,Janelle Gu,Burwood
+2.0,1.0,House,3.0,"32 Orama Avenue, Carrum Downs",798500.0,Rachel Alexandris,Carrum Downs
+2.0,2.0,House,3.0,"13 Blossom Way, Carrum Downs",649000.0,Karen Finch,Carrum Downs
+1.0,1.0,House,3.0,"18 Fulton Crescent, Burwood",1050000.0,Nicholas Richards,Burwood
+1.0,1.0,Apartment,2.0,"7/119-123 Atkinson Street, Oakleigh",440000.0,Daniel Seyran,Oakleigh
