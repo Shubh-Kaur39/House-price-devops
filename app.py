@@ -1,13 +1,16 @@
+"""House price prediction Streamlit application."""
 
-import streamlit as st
-import pandas as pd
-import pickle
 import logging
+import pickle
+
+import pandas as pd
+import streamlit as st
 
 logging.basicConfig(level=logging.INFO)
 
 try:
-    model = pickle.load(open('RF_model_.pkl', 'rb'))
+    with open('RF_model_.pkl', 'rb') as model_file:
+        model = pickle.load(model_file)
 
     st.title("Housing Price Prediction")
 
@@ -20,12 +23,7 @@ try:
 
         input_data = pd.DataFrame(
             [[Area, Bedrooms, Bathrooms, Schools]],
-            columns=[
-                'Area',
-                'Bedrooms',
-                'Bathrooms',
-                'Schools'
-            ]
+            columns=['Area', 'Bedrooms', 'Bathrooms', 'Schools']
         )
 
         prediction = model.predict(input_data)
@@ -34,6 +32,6 @@ try:
 
         logging.info("Prediction successful")
 
-except Exception as e:
+except (OSError, ValueError, AttributeError) as e:
     st.error(f"Error: {e}")
-    logging.error(f"Application error: {e}")
+    logging.error("Application error: %s", e)
